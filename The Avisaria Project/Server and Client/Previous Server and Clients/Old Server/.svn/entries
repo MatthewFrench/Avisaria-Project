@@ -1,0 +1,106 @@
+8
+
+dir
+62
+https://cocoaasyncsocket.googlecode.com/svn/trunk/EchoServer
+https://cocoaasyncsocket.googlecode.com/svn
+
+
+
+2009-02-06T17:30:01.605763Z
+61
+deusty
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+903ec77f-374c-0410-a8be-254fceba1445
+
+AppController.m
+file
+
+
+
+
+2009-03-23T17:04:32.000000Z
+1f432f6774cc786a4bef24cff73ab7ec
+2009-02-06T17:30:01.605763Z
+61
+deusty
+
+main.m
+file
+
+
+
+
+2008-08-15T16:05:57.000000Z
+4e17d26ce5f82c40e4f56a5f734cdfd4
+2008-08-03T23:22:46.147194Z
+35
+deusty
+
+EchoServer.xcodeproj
+dir
+
+Info.plist
+file
+
+
+
+
+2008-08-15T16:05:57.000000Z
+e1fbff67898328a6069c78da5fdd447c
+2008-08-03T23:22:46.147194Z
+35
+deusty
+
+AppController.h
+file
+
+
+
+
+2008-08-15T16:05:57.000000Z
+3f40c809a16c1ebd35c45a80866785ad
+2008-08-03T23:22:46.147194Z
+35
+deusty
+
+EchoServer_Prefix.pch
+file
+
+
+
+
+2008-08-15T16:05:57.000000Z
+72e46e68bf032b94f02f8556d721d959
+2008-08-03T23:22:46.147194Z
+35
+deusty
+
+readme.txt
+file
+
+
+
+
+2008-08-15T16:05:57.000000Z
+f8bca643f2e8f198dcf111763a4ba3cd
+2008-08-03T23:22:46.147194Z
+35
+deusty
+
+English.lproj
+dir
+

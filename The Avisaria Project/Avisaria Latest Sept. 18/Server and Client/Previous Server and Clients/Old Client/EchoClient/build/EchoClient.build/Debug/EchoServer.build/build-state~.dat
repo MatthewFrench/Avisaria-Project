@@ -1,0 +1,255 @@
+TEchoServer
+v7
+r0
+t289608244.995105
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Info.plist" Info.plist
+cStripNIB "/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch.gch EchoServer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/Working Client/EchoClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AppController.o "/Users/matthew/Desktop/Working Client/EchoClient/AppController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AsyncSocket.o "/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer" normal i386
+cTouch "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004ABFD80600000000000000EE
+t1254086662
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netinet/in.h
+c0000000047E883C30000000000005346
+t1206420419
+s21318
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/socket.h
+c0000000047E883D1000000000000559B
+t1206420433
+s21915
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Working Client/AsyncSocket.h
+c0000000049E8E5A700000000000042A9
+t1239999911
+s17065
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.h
+c0000000049E8E5A700000000000042A9
+t1239999911
+s17065
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m
+c0000000049E8E5A7000000000001565E
+t1239999911
+s87646
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Working Client/EchoClient/AppController.h
+c000000004B8DA9D1000000000000015F
+t1267575249
+s351
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Working Client/EchoClient/AppController.m
+c000000004B8EC73900000000000015A5
+t1267648313
+s5541
+i"AppController.h"
+i"AsyncSocket.h"
+
+N/Users/matthew/Desktop/Working Client/EchoClient/EchoServer_Prefix.pch
+c0000000048A5A9650000000000000097
+t1218816357
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/InfoPlist.strings
+c0000000048A5A96500000000000000CA
+t1218816357
+s202
+
+N/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib
+c000000004B8DACA200000000000000AA
+t1267575970
+s170
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app
+t1267915444
+s102
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Info.plist
+t1267915439
+s778
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer
+t1267915444
+s89504
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/PkgInfo
+t1267915439
+s8
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1267915439
+s202
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1267915440
+s29472
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AppController.o
+t1267915444
+s35472
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AsyncSocket.o
+t1267915444
+s133196
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/EchoServer.LinkFileList
+c000000004B92DAAF000000000000017E
+t1267915439
+s382
+
+N/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/main.o
+t1267915444
+s4876
+
+N/Users/matthew/Desktop/Working Client/EchoClient/main.m
+c0000000048A5A9650000000000000101
+t1218816357
+s257
+i<Cocoa/Cocoa.h>
+
+N/var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch.gch
+t1267648322
+s54006160
+
+NInfo.plist
+c0000000048A5A9650000000000000347
+t1218816357
+s839
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289608239#289608239#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AppController.o "/Users/matthew/Desktop/Working Client/EchoClient/AppController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289608240.922992
+e289608244.592490
+r1
+xCompileC
+xbuild/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AppController.o
+x/Users/matthew/Desktop/Working Client/EchoClient/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Working Client/EchoClient/AppController.m: In function '-[AppController onSocket:didConnectToHost:port:]':
+o/Users/matthew/Desktop/Working Client/EchoClient/AppController.m:153: warning: unused variable 'welcomeData'
+lSLF07#2@72"Compile /Users/matthew/Desktop/Working Client/EchoClient/AppController.m289608240#289608244#0(239"/Users/matthew/Desktop/Working Client/EchoClient/AppController.m: In function '-[AppController onSocket:didConnectToHost:port:]':/Users/matthew/Desktop/Working Client/EchoClient/AppController.m:153: warning: unused variable 'welcomeData'1(22@29"Unused variable 'welcomeData'289608244#130#109#0(6@64"/Users/matthew/Desktop/Working Client/EchoClient/AppController.m289341113#153#0#153#0#19"unused variable '*'0(0#0#64"/Users/matthew/Desktop/Working Client/EchoClient/AppController.m4300882208#1216"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/EchoServer.hmap" "-F/Users/matthew/Desktop/Working Client/EchoClient/build/Debug" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/include" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Working Client/EchoClient/AppController.m" -o "/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AppController.o"0#
+
+CCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AsyncSocket.o "/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289608244.108755
+e289608244.943428
+r1
+xCompileC
+xbuild/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AsyncSocket.o
+x/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m289608244#289608244#0(0"0(0#0#65"/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m4300882208#1215"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/EchoServer.hmap" "-F/Users/matthew/Desktop/Working Client/EchoClient/build/Debug" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/include" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Working Client/EchoClient/../AsyncSocket.m" -o "/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/AsyncSocket.o"0#
+
+CCompileC build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/Working Client/EchoClient/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289608240.921555
+e289608244.108461
+r1
+xCompileC
+xbuild/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/Working Client/EchoClient/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/matthew/Desktop/Working Client/EchoClient/main.m289608240#289608244#0(0"0(0#0#55"/Users/matthew/Desktop/Working Client/EchoClient/main.m4300882208#1198"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/EchoServer.hmap" "-F/Users/matthew/Desktop/Working Client/EchoClient/build/Debug" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/include" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Working Client/EchoClient/main.m" -o "/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/main.o"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s289608239.730499
+e289608240.064402
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings289608239#289608240#0(0"0(0#0#80"/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/InfoPlist.strings4300882208#393"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer" normal i386
+s289608244.943551
+e289608244.991015
+r1
+xLd
+x/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer
+xnormal
+xi386
+lSLF07#2@106"Link /Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer289608244#289608244#0(0"0(0#0#0"4300882208#613"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/matthew/Desktop/Working Client/EchoClient/build/Debug" "-F/Users/matthew/Desktop/Working Client/EchoClient/build/Debug" -filelist "/Users/matthew/Desktop/Working Client/EchoClient/build/EchoClient.build/Debug/EchoServer.build/Objects-normal/i386/EchoServer.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -o "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/MacOS/EchoServer"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Info.plist" Info.plist
+s289608239.724480
+e289608239.729247
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist289608239#289608239#0(0"0(0#0#59"/Users/matthew/Desktop/Working Client/EchoClient/Info.plist4300882208#344"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/kw/kwH3bnWFEyKshR1su3nuC++++Tk/-Caches-/com.apple.Xcode.508/SharedPrecompiledHeaders/EchoServer_Prefix-cvgjjuntwptnrchiiwxjqkvekngi/EchoServer_Prefix.pch.gch EchoServer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CStripNIB "/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib"
+s289608239.729378
+e289608240.921183
+r1
+xStripNIB
+x/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib289608239#289608240#0(0"0(0#0#75"/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib4300882208#334"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    /Developer/usr/bin/ibtool --strip "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Users/matthew/Desktop/Working Client/EchoClient/English.lproj/MainMenu.nib"0#
+
+CTouch "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app"
+s289608244.991138
+e289608244.995048
+r1
+xTouch
+x/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app
+lSLF07#2@81"Touch /Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app289608244#289608244#0(0"0(0#0#0"4300882208#158"    cd "/Users/matthew/Desktop/Working Client/EchoClient"    /usr/bin/touch -c "/Users/matthew/Desktop/Working Client/EchoClient/build/Debug/EchoServer.app"0#
+

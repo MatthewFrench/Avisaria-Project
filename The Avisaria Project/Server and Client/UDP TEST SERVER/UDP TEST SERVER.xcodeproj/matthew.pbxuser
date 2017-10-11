@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* UDP_TEST_SERVERAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 451}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{0, 554}";
+			sepNavWindowFrame = "{{15, 17}, {1374, 856}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* UDP_TEST_SERVERAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 780}}";
+			sepNavSelRange = "{2047, 0}";
+			sepNavVisRange = "{393, 1542}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 34B1D9E912CFC47C00A64C19 /* UDP TEST SERVER */;
+		activeTarget = 8D1107260486CEB800E47090 /* UDP TEST SERVER */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* UDP TEST SERVER */,
+		);
+		codeSenseManager = 34B1D9FC12CFC48100A64C19 /* Code sense */;
+		executables = (
+			34B1D9E912CFC47C00A64C19 /* UDP TEST SERVER */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					786,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315611502;
+			PBXWorkspaceStateSaveDate = 315611502;
+		};
+		perUserProjectItems = {
+			34B1DA5A12CFC5F200A64C19 /* PBXTextBookmark */ = 34B1DA5A12CFC5F200A64C19 /* PBXTextBookmark */;
+			34B1DAF612CFCCE900A64C19 /* PBXTextBookmark */ = 34B1DAF612CFCCE900A64C19 /* PBXTextBookmark */;
+			34B1DC7312CFD94200A64C19 /* PBXTextBookmark */ = 34B1DC7312CFD94200A64C19 /* PBXTextBookmark */;
+			34B1DCAD12CFE18500A64C19 /* PBXTextBookmark */ = 34B1DCAD12CFE18500A64C19 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34B1D9FB12CFC48100A64C19 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	34B1D9E912CFC47C00A64C19 /* UDP TEST SERVER */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "UDP TEST SERVER";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34B1D9FB12CFC48100A64C19 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34B1D9FC12CFC48100A64C19 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	34B1D9FD12CFC49000A64C19 /* AsyncUdpSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 4550}}";
+			sepNavSelRange = "{9592, 3120}";
+			sepNavVisRange = "{9728, 1668}";
+		};
+	};
+	34B1DA5A12CFC5F200A64C19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B1D9FD12CFC49000A64C19 /* AsyncUdpSocket.h */;
+		name = "AsyncUdpSocket.h: 263";
+		rLen = 3120;
+		rLoc = 9592;
+		rType = 0;
+		vrLen = 1668;
+		vrLoc = 9728;
+	};
+	34B1DAF612CFCCE900A64C19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* UDP_TEST_SERVERAppDelegate.h */;
+		name = "UDP_TEST_SERVERAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	34B1DC7312CFD94200A64C19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* UDP_TEST_SERVERAppDelegate.m */;
+		name = "UDP_TEST_SERVERAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 1542;
+		vrLoc = 393;
+	};
+	34B1DCAD12CFE18500A64C19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* UDP_TEST_SERVERAppDelegate.m */;
+		name = "UDP_TEST_SERVERAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 1542;
+		vrLoc = 393;
+	};
+	8D1107260486CEB800E47090 /* UDP TEST SERVER */ = {
+		activeExec = 0;
+		executables = (
+			34B1D9E912CFC47C00A64C19 /* UDP TEST SERVER */,
+		);
+	};
+}

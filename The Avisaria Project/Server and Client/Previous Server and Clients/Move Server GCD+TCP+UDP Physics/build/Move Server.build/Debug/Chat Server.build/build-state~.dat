@@ -1,0 +1,430 @@
+TChat Server
+v7
+r0
+t315604823.193704
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Info.plist" Chat_Server-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch.gch Chat_Server_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server" normal x86_64
+cTouch "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C23A06400000000000009CB
+t1277403236
+s2507
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004CAA7405000000000006611C
+t1286239237
+s418076
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004BBD2CC60000000000001533
+t1270688966
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004B738B07000000000000054D
+t1265863431
+s1357
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ifaddrs.h
+c000000004BBD2CCE0000000000000782
+t1270688974
+s1922
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C23994300000000000035E3
+t1277401411
+s13795
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C2399440000000000005414
+t1277401412
+s21524
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/poll.h
+c000000004C239947000000000000123C
+t1277401415
+s4668
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C23994800000000000059BC
+t1277401416
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004C2399480000000000001126
+t1277401416
+s4390
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.h
+c000000004D02C70500000000000006BD
+t1292027653
+s1725
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+i"Player.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m
+c000000004D03B5B4000000000000449B
+t1292088756
+s17563
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.h
+c000000004CF8472B00000000000037E2
+t1291339563
+s14306
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m
+c000000004CF8472B00000000000102C8
+t1291339563
+s66248
+i"AsyncUdpSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<sys/ioctl.h>
+i<net/if.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Chat_Server_Prefix.pch
+c000000004CF824E10000000000000099
+t1291330785
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/InfoPlist.strings
+c000000004CF824E1000000000000002D
+t1291330785
+s45
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib
+c000000004CFB1AD10000000000032051
+t1291524817
+s204881
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.h
+c000000004D01A2440000000000000367
+t1291952708
+s871
+i<Cocoa/Cocoa.h>
+i"GCDAsyncSocket.h"
+i"AsyncUdpSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m
+c000000004D02D3040000000000002543
+t1292030724
+s9539
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.h
+c000000004D03B5220000000000000261
+t1292088610
+s609
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m
+c000000004D03B5B40000000000000264
+t1292088756
+s612
+i"Player.h"
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app
+t1293912023
+s102
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Info.plist
+t1293912016
+s898
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server
+t1293912023
+s325680
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/PkgInfo
+t1293912016
+s8
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293912016
+s92
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293912017
+s40741
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AppDelegate.o
+t1293912021
+s76256
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AsyncUdpSocket.o
+t1293912022
+s138552
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1293912023
+s362852
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Move Server.LinkFileList
+c000000004D1F87D00000000000000459
+t1293912016
+s1113
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/NetworkingController.o
+t1293912022
+s62292
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Player.o
+t1293912022
+s25732
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/main.o
+t1293912021
+s5120
+
+N/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m
+c000000004CF824E10000000000000103
+t1291330785
+s259
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch.gch
+t1293912021
+s54310672
+
+NChat_Server-Info.plist
+c000000004CF824E100000000000003EA
+t1291330785
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315604816#315604816#0(0"0(0#1#0"8606490080#0"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604821.373911
+e315604821.850407
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m315604821#315604821#0(0"0(0#0#114"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m8607969920#2258"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604822.027476
+e315604822.621798
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m315604822#315604822#0(0"0(0#0#117"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m8595547904#2264"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/AsyncUdpSocket.o"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604821.850540
+e315604823.098432
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m315604821#315604823#0(0"0(0#0#117"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m8605741888#2264"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604821.572885
+e315604822.027333
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m315604821#315604822#0(0"0(0#0#123"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m8606384288#2276"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604822.621930
+e315604822.948352
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Player.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m315604822#315604822#0(0"0(0#0#109"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m8607922976#2248"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Player.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Player.o"0#
+
+CCompileC "build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604821.348651
+e315604821.572760
+r1
+xCompileC
+xbuild/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m315604821#315604821#0(0"0(0#0#107"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m8608483520#2244"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/main.m" -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib"
+s315604816.690580
+e315604817.262947
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315604816#315604817#0(0"0(0#0#127"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib8604447648#560"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315604816.688424
+e315604816.772348
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315604816#315604816#0(0"0(0#0#132"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/English.lproj/InfoPlist.strings8607874528#497"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server" normal x86_64
+s315604823.098556
+e315604823.189704
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server
+xnormal
+xx86_64
+lSLF07#2@160"Link /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server315604823#315604823#0(0"0(0#0#0"8604505088#902"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Objects-normal/x86_64/Move Server.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/MacOS/Move Server"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Info.plist" Chat_Server-Info.plist
+s315604816.675079
+e315604816.688292
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Info.plist
+xChat_Server-Info.plist
+lSLF07#2@30"Process Chat_Server-Info.plist315604816#315604816#0(0"0(0#0#123"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Chat_Server-Info.plist8608284064#514"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    builtin-infoPlistUtility Chat_Server-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch.gch Chat_Server_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315604817.263111
+e315604821.348458
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch.gch
+xChat_Server_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Server_Prefix.pch315604817#315604821#0(0"0(0#0#123"/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Chat_Server_Prefix.pch8606240480#2082"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/Move Server-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Move Server.build/Debug/Chat Server.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/Chat_Server_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Server_Prefix-ewdvatomsurfqqfdliblyvwlmtok/Chat_Server_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app"
+s315604823.189825
+e315604823.193636
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app
+lSLF07#2@134"Touch /Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app315604823#315604823#0(0"0(0#0#0"8595782272#263"    cd "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Previous Server and Clients/Move Server GCD+TCP+UDP Physics/build/Debug/Move Server.app"0#
+

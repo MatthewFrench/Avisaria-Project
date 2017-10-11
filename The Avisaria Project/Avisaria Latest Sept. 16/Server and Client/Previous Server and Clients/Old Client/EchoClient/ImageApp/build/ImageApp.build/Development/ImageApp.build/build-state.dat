@@ -1,0 +1,75 @@
+TImageApp
+v7
+r1
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/Credits.rtf
+c000000004798E418000000000000017A
+t1201202200
+s378
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib
+c000000004BA3C00D00000000000000CC
+t1269022733
+s204
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/InfoPlist.strings
+c000000004798E418000000000000003A
+t1201202200
+s58
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib
+c000000004BA3C00D00000000000000AA
+t1269022733
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Resources/English.lproj/ImageDoc.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+NResources/Info.plist
+c000000004798E418000000000000072B
+t1201202200
+s1835
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings" Resources/English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Development/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf Resources/English.lproj/Credits.rtf
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app/Contents/Info.plist" Resources/Info.plist
+r0
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib"
+r0
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib"
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Development/ImageApp.app"
+r0
+

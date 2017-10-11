@@ -1,0 +1,575 @@
+TChat Client
+v7
+r0
+t313039936.739636
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Info.plist" Chat_Client-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Chat Client GCD/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client" normal x86_64
+cTouch "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C4DF89900000000000009CB
+t1280178329
+s2507
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004C5342AD000000000006603C
+t1280524973
+s417852
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004AC598620000000000001533
+t1254463586
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004AC599FE00000000000002C9
+t1254463998
+s713
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004AC59C8100000000000003EA
+t1254464641
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ifaddrs.h
+c000000004AC598710000000000000782
+t1254463601
+s1922
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C4DE4AD00000000000034A5
+t1280173229
+s13477
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004AC598B10000000000003057
+t1254463665
+s12375
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C4DE4AE000000000000539D
+t1280173230
+s21405
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C4DE4B2000000000000116C
+t1280173234
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/poll.h
+c000000004C4DE4B3000000000000123C
+t1280173235
+s4668
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C4DE4B400000000000059BC
+t1280173236
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C4DE4B40000000000002905
+t1280173236
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004C4DE4B50000000000001126
+t1280173237
+s4390
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.h
+c000000004CF82D750000000000000289
+t1291332981
+s649
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m
+c000000004CF82E9D0000000000000813
+t1291333277
+s2067
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/AsyncSocket.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/AsyncSocket.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/Chat_Client_Prefix.pch
+c000000004CF81F620000000000000099
+t1291329378
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/English.lproj/InfoPlist.strings
+c000000004CF81F62000000000000002D
+t1291329378
+s45
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/English.lproj/MainMenu.xib
+c000000004CF82D4100000000000366E6
+t1291332929
+s222950
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.h
+c000000004CF8578B00000000000001E8
+t1291343755
+s488
+i<Cocoa/Cocoa.h>
+i"GCDAsyncSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m
+c000000004CF85BF90000000000000AF3
+t1291344889
+s2803
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+t1291343755
+s40632
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o
+t1291332808
+s185336
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Chat Client.LinkFileList
+c000000004CF855300000000000000239
+t1291343152
+s569
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1291343174
+s361292
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+t1291344890
+s32192
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+t1291343172
+s5024
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app
+t1291344890
+s102
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Info.plist
+t1291332806
+s898
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client
+t1291344890
+s213080
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/PkgInfo
+t1291332806
+s8
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291332806
+s92
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291332942
+s44302
+
+N/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m
+c000000004CF81F620000000000000103
+t1291329378
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.h
+c000000004CF82D750000000000000289
+t1291332981
+s649
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m
+c000000004CF82E9D0000000000000813
+t1291333277
+s2067
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.h
+c0000000049E8E5A700000000000042A9
+t1239999911
+s17065
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m
+c0000000049E8E5A7000000000001565E
+t1239999911
+s87646
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/Chat_Client_Prefix.pch
+c000000004CF81F620000000000000099
+t1291329378
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/InfoPlist.strings
+c000000004CF81F62000000000000002D
+t1291329378
+s45
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/MainMenu.xib
+c000000004CF82D4100000000000366E6
+t1291332929
+s222950
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.h
+c000000004CF8241A00000000000001F1
+t1291330586
+s497
+i<Cocoa/Cocoa.h>
+i"AsyncSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m
+c000000004CF824980000000000000BA6
+t1291330712
+s2982
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+t1291333278
+s40992
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o
+t1291332808
+s185336
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Chat Client.LinkFileList
+c000000004CF82CC60000000000000226
+t1291332806
+s550
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+t1291332982
+s34032
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+t1291332807
+s5016
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app
+t1291333278
+s102
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Info.plist
+t1291332806
+s898
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/MacOS/Chat Client
+t1291333278
+s125664
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/PkgInfo
+t1291332806
+s8
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291332806
+s92
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291332942
+s44302
+
+N/Users/matthew/Desktop/Server and Client/Chat Client/main.m
+c000000004CF81F620000000000000103
+t1291329378
+s259
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch.gch
+t1291329412
+s54265616
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch.gch
+t1291343172
+s54265616
+
+NChat_Client-Info.plist
+c000000004CF81F6200000000000003EA
+t1291329378
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313039936#313039936#0(0"0(0#1#0"8615631904#0"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313036555.361736
+e313036555.720184
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m313036555#313036555#0(0"0(0#0#70"/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m8621681696#1764"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313026077.542131
+e313026078.257641
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m313026077#313026078#0(0"0(0#0#66"/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m8618776000#1720"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/AsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313025607.448184
+e313025608.205022
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m: In function '-[AsyncSocket connectToHost:onPort:withTimeout:error:]':
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:951: warning: format not a string literal and no format arguments
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:957: warning: format not a string literal and no format arguments
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m: In function '-[AsyncSocket connectToAddress:withTimeout:error:]':
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:1004: warning: format not a string literal and no format arguments
+o/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:1010: warning: format not a string literal and no format arguments
+lSLF07#2@74"Compile /Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m313025607#313025608#0(806"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m: In function '-[AsyncSocket connectToHost:onPort:withTimeout:error:]':/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:951: warning: format not a string literal and no format arguments/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:957: warning: format not a string literal and no format arguments/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m: In function '-[AsyncSocket connectToAddress:withTimeout:error:]':/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:1004: warning: format not a string literal and no format arguments/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m:1010: warning: format not a string literal and no format arguments4(22@51"Format not a string literal and no format arguments313025607#138#133#0(6@66"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m261692711#951#0#951#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments313025607#271#133#0(6@66"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m261692711#957#0#957#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments313025607#538#134#0(6@66"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m261692711#1004#0#1004#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments313025607#672#134#0(6@66"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m261692711#1010#0#1010#0#51"format not a string literal and no format arguments0(0#0#66"/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m8604019328#1720"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client/AsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncSocket.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313035972.656115
+e313035974.194162
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m313035972#313035974#0(0"0(0#0#73"/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m8603695200#1770"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313037689.718146
+e313037690.449684
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m313037689#313037690#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m8624375616#1782"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313025781.581998
+e313025782.036792
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m313025781#313025782#0(0"0(0#0#75"/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m8618224704#1738"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313035972.196108
+e313035972.599048
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m313035972#313035972#0(0"0(0#0#63"/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m8601342336#1750"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/main.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Chat Client/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313025607.114637
+e313025607.373777
+r1
+xCompileC
+xbuild/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Chat Client/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/matthew/Desktop/Server and Client/Chat Client/main.m313025607#313025607#0(0"0(0#0#59"/Users/matthew/Desktop/Server and Client/Chat Client/main.m8607608448#1706"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Chat Client/main.m" -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Chat Client GCD/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/MainMenu.xib"
+s313025741.796359
+e313025742.456803
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313025741#313025742#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/MainMenu.xib8614312352#416"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s313025606.513877
+e313025606.580925
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313025606#313025606#0(0"0(0#0#84"/Users/matthew/Desktop/Server and Client/Chat Client/English.lproj/InfoPlist.strings8607458816#401"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client" normal x86_64
+s313037690.449837
+e313037690.526132
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client
+xnormal
+xx86_64
+lSLF07#2@116"Link /Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client313037690#313037690#0(0"0(0#0#0"8624221856#682"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Chat Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -o "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/MacOS/Chat Client"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/MacOS/Chat Client" normal x86_64
+s313026078.257764
+e313026078.330814
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/MacOS/Chat Client
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/MacOS/Chat Client313026078#313026078#0(0"0(0#0#0"8626047392#642"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Chat Client/build/Chat Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Chat Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/MacOS/Chat Client"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app/Contents/Info.plist" Chat_Client-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Info.plist" Chat_Client-Info.plist
+s313025606.500620
+e313025606.513752
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist313025606#313025606#0(0"0(0#0#75"/Users/matthew/Desktop/Server and Client/Chat Client/Chat_Client-Info.plist7596520478137739264#370"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-dpnwgkrhlydgkggsghvqddtmfsot/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313035967.514377
+e313035972.195919
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch313035967#313035972#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Chat Client GCD/Chat_Client_Prefix.pch8603726336#1632"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/Chat Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Chat Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ewtpvjvnxjbufifstwkooqjaxqhx/Chat_Client_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app"
+s313037690.526253
+e313037690.530352
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app
+lSLF07#2@90"Touch /Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app313037690#313037690#0(0"0(0#0#0"8623863072#175"    cd "/Users/matthew/Desktop/Server and Client/Chat Client GCD"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Chat Client GCD/build/Debug/Chat Client.app"0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app"
+s313026078.330923
+e313026078.337163
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app
+lSLF07#2@86"Touch /Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app313026078#313026078#0(0"0(0#0#0"8622325792#167"    cd "/Users/matthew/Desktop/Server and Client/Chat Client"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Chat Client/build/Debug/Chat Client.app"0#
+

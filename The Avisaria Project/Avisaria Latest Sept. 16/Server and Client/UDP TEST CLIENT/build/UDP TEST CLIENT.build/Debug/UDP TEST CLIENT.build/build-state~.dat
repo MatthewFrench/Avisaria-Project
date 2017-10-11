@@ -1,0 +1,271 @@
+TUDP TEST CLIENT
+v7
+r0
+t315610940.921939
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Info.plist" UDP_TEST_CLIENT-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch.gch UDP_TEST_CLIENT_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP_TEST_CLIENTAppDelegate.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004BBD2CC60000000000001533
+t1270688966
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C23994300000000000035E3
+t1277401411
+s13795
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C2399440000000000005414
+t1277401412
+s21524
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C23994800000000000059BC
+t1277401416
+s22972
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.h
+c000000004CF8472B00000000000037E2
+t1291339563
+s14306
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m
+c000000004CF8472B00000000000102C8
+t1291339563
+s66248
+i"AsyncUdpSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<sys/ioctl.h>
+i<net/if.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/InfoPlist.strings
+c000000004D1F8DBA000000000000002D
+t1293913530
+s45
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib
+c000000004D1F9224000000000003357E
+t1293914660
+s210302
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.h
+c000000004D1F9F3A000000000000022B
+t1293918010
+s555
+i<Cocoa/Cocoa.h>
+i"AsyncUdpSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m
+c000000004D1F9FB70000000000000824
+t1293918135
+s2084
+i"UDP_TEST_CLIENTAppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENT_Prefix.pch
+c000000004D1F8DBA00000000000000A1
+t1293913530
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Info.plist
+t1293918135
+s910
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/MacOS/UDP TEST CLIENT
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/PkgInfo
+t1293918135
+s8
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293918135
+s92
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293918136
+s41759
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/AsyncUdpSocket.o
+t1293918140
+s137220
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP TEST CLIENT.LinkFileList
+c000000004D1F9FB700000000000001CA
+t1293918135
+s458
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP_TEST_CLIENTAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/main.o
+t1293918140
+s5024
+
+N/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m
+c000000004D1F8DBA0000000000000106
+t1293913530
+s262
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch.gch
+t1293918140
+s54306576
+
+NUDP_TEST_CLIENT-Info.plist
+c000000004D1F8DBA00000000000003EA
+t1293913530
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315610935#315610935#0(0"0(0#1#0"8626572192#0"0#
+
+CCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315610940.405508
+e315610940.921834
+r1
+xCompileC
+xbuild/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m315610940#315610940#0(0"0(0#0#73"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m8616487264#1850"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/AsyncUdpSocket.o"0#
+
+CCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP_TEST_CLIENTAppDelegate.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315610940.208803
+e315610940.405371
+r0
+xCompileC
+xbuild/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP_TEST_CLIENTAppDelegate.o
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m: In function '-[UDP_TEST_CLIENTAppDelegate send:]':
+o/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m:30: error: expected identifier or '(' before '[' token
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@93"Compile /Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m315610940#315610940#0(436"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m: In function '-[UDP_TEST_CLIENTAppDelegate send:]':/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m:30: error: expected identifier or '(' before '[' token{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_01(4@43"Expected identifier or '(' before '[' token315610940#138#141#0(6@85"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m315610935#30#0#30#0#19"expected * before *0(0#0#85"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m8631516704#1874"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENTAppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP_TEST_CLIENTAppDelegate.o"1#
+
+CCompileC "build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315610940.207465
+e315610940.442332
+r1
+xCompileC
+xbuild/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m315610940#315610940#0(0"0(0#0#63"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m8624738336#1830"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/main.m" -o "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib"
+s315610935.770887
+e315610936.362324
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315610935#315610936#0(0"0(0#0#83"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib8630164672#432"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315610935.769589
+e315610935.816547
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315610935#315610935#0(0"0(0#0#88"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/English.lproj/InfoPlist.strings8617113088#413"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/MacOS/UDP TEST CLIENT" normal x86_64
+s315610810.311771
+e315610810.387938
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/MacOS/UDP TEST CLIENT
+xnormal
+xx86_64
+lSLF07#2@124"Link /Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/MacOS/UDP TEST CLIENT315610810#315610810#0(0"0(0#0#0"8631676544#682"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" "-F/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/Objects-normal/x86_64/UDP TEST CLIENT.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/MacOS/UDP TEST CLIENT"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Info.plist" UDP_TEST_CLIENT-Info.plist
+s315610935.764550
+e315610935.769458
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Info.plist
+xUDP_TEST_CLIENT-Info.plist
+lSLF07#2@34"Process UDP_TEST_CLIENT-Info.plist315610935#315610935#0(0"0(0#0#83"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENT-Info.plist8633433600#394"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    builtin-infoPlistUtility UDP_TEST_CLIENT-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch.gch UDP_TEST_CLIENT_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315610936.362533
+e315610940.207275
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch.gch
+xUDP_TEST_CLIENT_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile UDP_TEST_CLIENT_Prefix.pch315610936#315610940#0(0"0(0#0#83"/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENT_Prefix.pch8619156032#1708"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/UDP TEST CLIENT-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/UDP TEST CLIENT.build/Debug/UDP TEST CLIENT.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/UDP_TEST_CLIENT_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UDP_TEST_CLIENT_Prefix-djchaokjozrndjdoecedzmzyvsbi/UDP_TEST_CLIENT_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app"
+s315610810.388059
+e315610810.391659
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app
+lSLF07#2@94"Touch /Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app315610810#315610810#0(0"0(0#0#0"8633432832#179"    cd "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/UDP TEST CLIENT/build/Debug/UDP TEST CLIENT.app"0#
+

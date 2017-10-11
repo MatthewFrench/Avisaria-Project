@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {520, 403}}";
+			sepNavSelRange = "{567, 91}";
+			sepNavVisRange = "{214, 451}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1027}}";
+			sepNavSelRange = "{156, 1807}";
+			sepNavVisRange = "{1289, 674}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 346EA23612A85C6100D1F0E2 /* Chat Server */;
+		activeTarget = 8D1107260486CEB800E47090 /* Chat Server */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Chat Server */,
+		);
+		codeSenseManager = 346EA24012A85C6400D1F0E2 /* Code sense */;
+		executables = (
+			346EA23612A85C6100D1F0E2 /* Chat Server */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					342,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318045106;
+			PBXWorkspaceStateSaveDate = 318045106;
+		};
+		perUserProjectItems = {
+			346EA2E512A8632800D1F0E2 /* PBXTextBookmark */ = 346EA2E512A8632800D1F0E2 /* PBXTextBookmark */;
+			349086CC12F4ED2A00D338C6 /* PBXTextBookmark */ = 349086CC12F4ED2A00D338C6 /* PBXTextBookmark */;
+			349086CD12F4ED2A00D338C6 /* PBXTextBookmark */ = 349086CD12F4ED2A00D338C6 /* PBXTextBookmark */;
+			349086CF12F4ED2A00D338C6 /* PBXTextBookmark */ = 349086CF12F4ED2A00D338C6 /* PBXTextBookmark */;
+			349088C012F4FBEB00D338C6 /* PBXTextBookmark */ = 349088C012F4FBEB00D338C6 /* PBXTextBookmark */;
+			349088C112F4FBEB00D338C6 /* PBXTextBookmark */ = 349088C112F4FBEB00D338C6 /* PBXTextBookmark */;
+			349088C212F4FBEB00D338C6 /* PBXTextBookmark */ = 349088C212F4FBEB00D338C6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 346EA23F12A85C6400D1F0E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	346EA23612A85C6100D1F0E2 /* Chat Server */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Chat Server";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	346EA23F12A85C6400D1F0E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	346EA24012A85C6400D1F0E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	346EA24C12A85CA300D1F0E2 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 5434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 456}";
+		};
+	};
+	346EA24D12A85CA300D1F0E2 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 37921}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	346EA25112A85CED00D1F0E2 /* NetworkingController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {970, 555}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{0, 470}";
+		};
+	};
+	346EA25212A85CED00D1F0E2 /* NetworkingController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 1365}}";
+			sepNavSelRange = "{1555, 173}";
+			sepNavVisRange = "{1289, 566}";
+		};
+	};
+	346EA2E512A8632800D1F0E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 346EA25112A85CED00D1F0E2 /* NetworkingController.h */;
+		name = "NetworkingController.h: 22";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	349086CC12F4ED2A00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 346EA24D12A85CA300D1F0E2 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	349086CD12F4ED2A00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 346EA24C12A85CA300D1F0E2 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	349086CF12F4ED2A00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AppDelegate.h */;
+		name = "AppDelegate.h: 26";
+		rLen = 91;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 213;
+	};
+	349088C012F4FBEB00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 346EA25212A85CED00D1F0E2 /* NetworkingController.m */;
+		name = "NetworkingController.m: 57";
+		rLen = 173;
+		rLoc = 1555;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 1289;
+	};
+	349088C112F4FBEB00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AppDelegate.m */;
+		name = "AppDelegate.m: 9";
+		rLen = 1807;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 1289;
+	};
+	349088C212F4FBEB00D338C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AppDelegate.h */;
+		name = "AppDelegate.h: 26";
+		rLen = 91;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 214;
+	};
+	8D1107260486CEB800E47090 /* Chat Server */ = {
+		activeExec = 0;
+		executables = (
+			346EA23612A85C6100D1F0E2 /* Chat Server */,
+		);
+	};
+}

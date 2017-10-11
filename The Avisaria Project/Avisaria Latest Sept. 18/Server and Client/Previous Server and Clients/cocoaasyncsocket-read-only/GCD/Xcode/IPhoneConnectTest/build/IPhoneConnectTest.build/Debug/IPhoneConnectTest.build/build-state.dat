@@ -1,0 +1,56 @@
+TIPhoneConnectTest
+v7
+r1
+cCheck dependencies
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/IPhoneConnectTestViewController.xib
+c000000004CF847290000000000001A6D
+t1291339561
+s6765
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/MainWindow.xib
+c000000004CF847290000000000004EA1
+t1291339561
+s20129
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app/Contents/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app/Contents/Resources/IPhoneConnectTestViewController.nib
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NIPhoneConnectTest-Info.plist
+c000000004CF847290000000000000390
+t1291339561
+s912
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313032448#313032448#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.2'1(4@58"error: There is no SDK with the name or path 'iphoneos4.2'313032448#18446744073709551615#0#0(1@0"0(0#1#0"31525334837231728#0"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/IPhoneConnectTestViewController.xib"
+r0
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app/Contents/Info.plist" IPhoneConnectTest-Info.plist
+r0
+
+CTouch "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/IPhoneConnectTest/build/Debug/IPhoneConnectTest.app"
+r0
+

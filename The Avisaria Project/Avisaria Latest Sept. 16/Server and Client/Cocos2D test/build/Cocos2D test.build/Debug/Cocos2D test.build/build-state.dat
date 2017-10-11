@@ -1,0 +1,221 @@
+TCocos2D test
+v7
+r0
+t316988576.859910
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist" Cocos2D_test-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch Cocos2D_test_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test" normal x86_64
+cTouch "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004CAA7404000000000001A384
+t1286239236
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004CAA7405000000000000DB14
+t1286239237
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAA740500000000000A3C74
+t1286239237
+s670836
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.dylib
+c000000004CAA740A0000000000005D2C
+t1286239242
+s23852
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/../../../cocos2d-iphone/build/Release/libcocos2d.a
+c000000004D349ACE00000000007AB194
+t1295293134
+s8040852
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.h
+c000000004D349B6D000000000000014C
+t1295293293
+s332
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m
+c000000004D349B6D0000000000000186
+t1295293293
+s390
+i"Cocos2D_testAppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch
+c000000004D349B6D000000000000009B
+t1295293293
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/InfoPlist.strings
+c000000004D349B6D000000000000002D
+t1295293293
+s45
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib
+c000000004D349B6D000000000002BBA2
+t1295293293
+s179106
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D test.LinkFileList
+c000000004D34A4A4000000000000011D
+t1295295652
+s285
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o
+t1295295660
+s21256
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o
+t1295295660
+s5016
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app
+t1295295776
+s102
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist
+t1295295652
+s901
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test
+t1295295776
+s1058680
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/PkgInfo
+t1295295652
+s8
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1295295653
+s92
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/MainMenu.nib
+t1295295654
+s34461
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m
+c000000004D349B6D0000000000000104
+t1295293293
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch
+t1295295660
+s54306576
+
+NCocos2D_test-Info.plist
+c000000004D349B6D00000000000003EA
+t1295293293
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316988576#316988576#0(0"0(0#1#0"8630820768#0"0#
+
+CCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988460.132533
+e316988460.407494
+r1
+xCompileC
+xbuild/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m316988460#316988460#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m8646370496#1775"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o"0#
+
+CCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988460.131066
+e316988460.399745
+r1
+xCompileC
+xbuild/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/matthew/Desktop/Server and Client/Cocos2D test/main.m316988460#316988460#0(0"0(0#0#60"/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m8653483584#1737"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib"
+s316988452.487178
+e316988454.408104
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib316988452#316988454#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib8628168224#420"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s316988452.448541
+e316988453.713644
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings316988452#316988453#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/InfoPlist.strings8628790656#404"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test" normal x86_64
+s316988576.523563
+e316988576.813049
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test
+xnormal
+xx86_64
+lSLF07#2@115"Link /Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test316988576#316988576#0(0"0(0#0#0"8628196224#843"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-L/Users/matthew/Desktop/Server and Client/Cocos2D test/../../../cocos2d-iphone/build/Release" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D test.LinkFileList" -mmacosx-version-min=10.6 -all_load -framework Cocoa -lcocos2d -framework ApplicationServices -framework QuartzCore -lz -framework OpenGL -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist" Cocos2D_test-Info.plist
+s316988452.444516
+e316988452.448411
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist
+xCocos2D_test-Info.plist
+lSLF07#2@31"Process Cocos2D_test-Info.plist316988452#316988452#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test-Info.plist2325038779001434112#376"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    builtin-infoPlistUtility Cocos2D_test-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch Cocos2D_test_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988454.408447
+e316988460.130840
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch
+xCocos2D_test_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Cocos2D_test_Prefix.pch316988454#316988460#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch8645326624#1621"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app"
+s316988576.813176
+e316988576.859841
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app
+lSLF07#2@88"Touch /Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app316988576#316988576#0(0"0(0#0#0"8645035424#170"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app"0#
+

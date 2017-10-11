@@ -1,0 +1,4146 @@
+TGLUT
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B90C8A60000000000000AF4
+t1267779750
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOCFPlugIn.h
+c000000004BCE96BF00000000000008FD
+t1271830207
+s2301
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004BCE96BF0000000000012048
+t1271830207
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004BCE96BE0000000000000609
+t1271830206
+s1545
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/event_status_driver.h
+c000000004BCE96BE0000000000000DAF
+t1271830206
+s3503
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/hidsystem/IOHIDUsageTables.h
+c000000004B90D5880000000000017F07
+t1267783048
+s98055
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLCurrent.h
+c000000004BE91B5D000000000000017D
+t1273568093
+s381
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLTypes.h
+c000000004BE91B5D0000000000003899
+t1273568093
+s14489
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BE91B5D0000000000001659
+t1273568093
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BE91B5D0000000000025B59
+t1273568093
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BE91B5D0000000000003F84
+t1273568093
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTMovie.h
+c000000004BE2799E00000000000187D3
+t1273133470
+s100307
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTMovieView.h
+c000000004BE2799E00000000000013DC
+t1273133470
+s5084
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004AC59C810000000000000DCB
+t1254464641
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dlfcn.h
+c000000004BE8B6B70000000000000B1C
+t1273542327
+s2844
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004BD255330000000002B48410
+t1272075571
+s45384720
+
+N/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BC13513000000000077DFF0
+t1270953235
+s7856112
+
+N/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B90C8A60000000000000AF4
+t1267779750
+s2804
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/IOKit.framework/Headers/IOCFPlugIn.h
+c000000004BCE96BF00000000000008FD
+t1271830207
+s2301
+
+N/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004BCE96BF0000000000012048
+t1271830207
+s73800
+
+N/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004BCE96BE0000000000000609
+t1271830206
+s1545
+
+N/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/event_status_driver.h
+c000000004BCE96BE0000000000000DAF
+t1271830206
+s3503
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004BBD310E0000000000172A20
+t1270690062
+s1518112
+
+N/System/Library/Frameworks/Kernel.framework/Headers/IOKit/hidsystem/IOHIDUsageTables.h
+c000000004B90D5880000000000017F07
+t1267783048
+s98055
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/CGLCurrent.h
+c000000004B8E4E9E000000000000017D
+t1267617438
+s381
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/CGLTypes.h
+c000000004B8E4E9E0000000000003899
+t1267617438
+s14489
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004B8E4E9E0000000000001659
+t1267617438
+s5721
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B8E4E9E0000000000025B59
+t1267617438
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B8E4E9E0000000000003F84
+t1267617438
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004BD250310000000000043300
+t1272074289
+s275200
+
+N/System/Library/Frameworks/QTKit.framework/Headers/QTMovie.h
+c000000004B48430F00000000000187D3
+t1263026959
+s100307
+
+N/System/Library/Frameworks/QTKit.framework/Headers/QTMovieView.h
+c000000004B48431000000000000013DC
+t1263026960
+s5084
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004BF9CAFF00000000006705C0
+t1274661631
+s6751680
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Caution.tiff
+c0000000047ACA3BA0000000000004974
+t1202496442
+s18804
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/blankCursor.tiff
+c0000000047ACA3BA0000000000000104
+t1202496442
+s260
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/bottomCursor.tiff
+c0000000047ACA3BA0000000000000176
+t1202496442
+s374
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/bottomleftCursor.tiff
+c0000000047ACA3BA0000000000000182
+t1202496442
+s386
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/bottomrightCursor.tiff
+c0000000047ACA3BA0000000000000182
+t1202496442
+s386
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/crossCursor.tiff
+c0000000047ACA3BA000000000000017C
+t1202496442
+s380
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/cycleCursor.tiff
+c0000000047ACA3BA000000000000019A
+t1202496442
+s410
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/destroyCursor.tiff
+c0000000047ACA3BA000000000000019E
+t1202496442
+s414
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/fingerCursor.tiff
+c0000000047ACA3BA00000000000002A2
+t1202496442
+s674
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/helpCursor.tiff
+c0000000047ACA3BA0000000000000142
+t1202496442
+s322
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/leftCursor.tiff
+c0000000047ACA3BA0000000000000180
+t1202496442
+s384
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/leftRightCursor.tiff
+c0000000047ACA3BA0000000000000190
+t1202496442
+s400
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/rightArrowCursor.tiff
+c0000000047ACA3BA0000000000000158
+t1202496442
+s344
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/rightCursor.tiff
+c0000000047ACA3BA0000000000000180
+t1202496442
+s384
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/sprayCursor.tiff
+c0000000047ACA3BA0000000000000194
+t1202496442
+s404
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/topCursor.tiff
+c0000000047ACA3BA0000000000000176
+t1202496442
+s374
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/topleftCursor.tiff
+c0000000047ACA3BA0000000000000182
+t1202496442
+s386
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/toprightCursor.tiff
+c0000000047ACA3BA0000000000000188
+t1202496442
+s392
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/upDownCursor.tiff
+c0000000047ACA3BA0000000000000184
+t1202496442
+s388
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Cursors/waitCursor.tiff
+c0000000047ACA3BA0000000000000332
+t1202496442
+s818
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUT.nib
+c000000004BE1E1F300000000000000AA
+t1273094643
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUTClipboard.nib
+c000000004BE1E1F300000000000000AA
+t1273094643
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUTPreferences.nib
+c000000004BE1E1F300000000000000AA
+t1273094643
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUTUI.strings
+c0000000047ACA3BA0000000000000E0A
+t1202496442
+s3594
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/InfoPlist.strings
+c0000000047ACA3BA000000000000010C
+t1202496442
+s268
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.h
+c0000000047ACA3BA0000000000000CA8
+t1202496442
+s3240
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.m
+c0000000047ACA3BA0000000000003263
+t1202496442
+s12899
+i"macx_glut.h"
+i"GLUTApplication.h"
+i"GLUTView.h"
+i"GLUTWindow.h"
+i"GLUTPreferencesController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.h
+c0000000047ACA3BA00000000000002A4
+t1202496442
+s676
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.m
+c0000000047ACA3BA0000000000002470
+t1202496442
+s9328
+i"GLUTClipboardController.h"
+i"macx_glut.h"
+i"GLUTApplication.h"
+i<QTKit/QTMovie.h>
+i<QTKit/QTMovieView.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.h
+c0000000047ACA3BA00000000000004D7
+t1202496442
+s1239
+i"macx_glut.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.m
+c0000000047ACA3BA0000000000001765
+t1202496442
+s5989
+i"GLUTMenu.h"
+i"GLUTMenuItem.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.h
+c0000000047ACA3BA00000000000002E0
+t1202496442
+s736
+i"macx_glut.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.m
+c0000000047ACA3BA00000000000005FF
+t1202496442
+s1535
+i"GLUTMenuItem.h"
+i"GLUTMenu.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.h
+c0000000047ACA3BA0000000000000B7A
+t1202496442
+s2938
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.m
+c0000000047ACA3BA000000000000D389
+t1202496442
+s54153
+i"macx_glut.h"
+i"GLUTPreferencesController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.h
+c0000000047ACA3BA0000000000001D1A
+t1202496442
+s7450
+i"macx_glut.h"
+i"glutf90.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.m
+c0000000047ACA3BA000000000000FCDB
+t1202496442
+s64731
+i"GLUTView.h"
+i"GLUTWindow.h"
+i"GLUTMenu.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.h
+c0000000047ACA3BA000000000000053D
+t1202496442
+s1341
+i"macx_glut.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.m
+c0000000047ACA3BA000000000000534B
+t1202496442
+s21323
+i"macx_glut.h"
+i"GLUTWindow.h"
+i"GLUTView.h"
+i"GLUTApplication.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUT_Prefix.pch
+c0000000047ACA3BA00000000000000B4
+t1202496442
+s180
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Config_Utilities.c
+c0000000047ACA3BA0000000000003B53
+t1202496442
+s15187
+i<stdlib.h>
+i<time.h>
+i"HID_Utilities_Internal.h"
+i"HID_Utilities_External.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Error_Handler.c
+c0000000047ACA3BA00000000000010CF
+t1202496442
+s4303
+i<Carbon/Carbon.h>
+i<stdio.h>
+i"HID_Utilities_Internal.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.c
+c0000000047ACA3BA0000000000001FD7
+t1202496442
+s8151
+i"HID_Name_Lookup.h"
+i"HID_Utilities_Internal.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.h
+c0000000047ACA3BA0000000000000CA5
+t1202496442
+s3237
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Queue_Utilities.c
+c0000000047ACA3BA00000000000048AE
+t1202496442
+s18606
+i"HID_Utilities_Internal.h"
+i"HID_Utilities_External.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities.c
+c0000000047ACA3BA0000000000012682
+t1202496442
+s75394
+i"HID_Utilities_Internal.h"
+i"HID_Utilities_External.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities_External.h
+c0000000047ACA3BA00000000000042C3
+t1202496442
+s17091
+i<stdio.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities_Internal.h
+c0000000047ACA3BA00000000000011B3
+t1202496442
+s4531
+i<IOKit/IOKitLib.h>
+i<IOKit/IOCFPlugIn.h>
+i<IOKit/hid/IOHIDLib.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+i"HID_Utilities_External.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/Info.plist
+c0000000047ACA3BA0000000000000372
+t1202496442
+s882
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUT.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTApplication.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTClipboardController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTMenu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTMenuItem.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTPreferencesController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Config_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Error_Handler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Name_Lookup.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Queue_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_angle.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_cut_round.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_raw.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/extrude.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_8x13.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_9x15.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_bitmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_bwidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_cindex.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_ext.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel12.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel18.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_mroman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_roman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_shapes.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_stroke.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_swidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_teapot.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_tr10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_tr24.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_vidresize.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/intersect.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_cursor.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_dials.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_dstr.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_event.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_fortran.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_gamemode.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_init.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_input.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_joy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_key.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_menu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_modifier.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_overlay.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_space.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_swap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_tablet.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_util.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_warp.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_win.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/rot_prince.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/rotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/round_cap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/segment.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_buildsmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_context.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_create.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_destroy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_drawmesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_flag.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_getfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_gettexdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_gettexobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_getvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_makemesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_nearfar.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_origin.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_render.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_rvec2st.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_set.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_setfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_setvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_texdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_texobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/texgen.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/urotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/view.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUT.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTApplication.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTClipboardController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTMenu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTMenuItem.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTPreferencesController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Config_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Error_Handler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Name_Lookup.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Queue_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_angle.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_cut_round.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_raw.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/extrude.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_8x13.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_9x15.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_bitmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_bwidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_cindex.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_ext.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel12.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel18.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_mroman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_roman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_shapes.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_stroke.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_swidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_teapot.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_tr10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_tr24.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_vidresize.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/intersect.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_cursor.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_dials.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_dstr.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_event.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_fortran.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_gamemode.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_init.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_input.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_joy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_key.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_menu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_modifier.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_overlay.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_space.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_swap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_tablet.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_util.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_warp.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_win.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/rot_prince.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/rotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/round_cap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/segment.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_buildsmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_context.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_create.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_destroy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_drawmesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_flag.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_getfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_gettexdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_gettexobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_getvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_makemesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_nearfar.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_origin.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_render.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_rvec2st.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_set.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_setfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_setvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_texdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_texobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/texgen.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/urotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/view.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUT.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTApplication.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTClipboardController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTMenu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTMenuItem.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTPreferencesController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Config_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Error_Handler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Name_Lookup.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Queue_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_angle.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_cut_round.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_raw.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/extrude.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_8x13.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_9x15.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_bitmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_bwidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_cindex.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_ext.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel12.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel18.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_mroman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_roman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_shapes.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_stroke.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_swidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_teapot.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_tr10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_tr24.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_vidresize.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/intersect.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_cursor.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_dials.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_dstr.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_event.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_fortran.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_gamemode.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_init.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_input.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_joy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_key.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_menu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_modifier.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_overlay.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_space.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_swap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_tablet.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_util.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_warp.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_win.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/rot_prince.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/rotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/round_cap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/segment.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_buildsmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_context.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_create.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_destroy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_drawmesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_flag.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_getfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_gettexdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_gettexobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_getvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_makemesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_nearfar.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_origin.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_render.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_rvec2st.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_set.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_setfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_setvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_texdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_texobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/texgen.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/urotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/view.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUT.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTApplication.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTClipboardController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTMenu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTMenuItem.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTPreferencesController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Config_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Error_Handler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Name_Lookup.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Queue_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Utilities.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_angle.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_cut_round.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_raw.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/extrude.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_8x13.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_9x15.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_bitmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_bwidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_cindex.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_ext.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel12.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel18.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_mroman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_roman.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_shapes.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_stroke.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_swidth.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_teapot.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_tr10.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_tr24.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_vidresize.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/intersect.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_cursor.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_dials.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_dstr.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_event.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_fortran.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_gamemode.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_init.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_input.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_joy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_key.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_menu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_modifier.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_overlay.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_space.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_swap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_tablet.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_util.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_warp.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_win.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/rot_prince.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/rotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/round_cap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/segment.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_buildsmap.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_context.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_create.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_destroy.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_drawmesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_flag.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_get.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_getfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_gettexdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_gettexobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_getvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_makemesh.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_nearfar.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_origin.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_render.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_rvec2st.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_set.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_setfunc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_setvec.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_texdim.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_texobj.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/texgen.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/urotate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/view.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Headers
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Resources
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/GLUT
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/copy.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/extrude.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glsmap.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glsmapint.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glut.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glutbitmap.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glutf90.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/glutstroke.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/gutil.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/intersect.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/port.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/rot.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/segment.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/tube.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/tube_gc.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Headers/vvector.h
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/Caution.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/GLUT.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/GLUTClipboard.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/GLUTPreferences.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/GLUTUI.strings
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/blankCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomleftCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomrightCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/crossCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/cycleCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/destroyCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/fingerCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/helpCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/leftCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/leftRightCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/rightArrowCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/rightCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/sprayCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/topCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/topleftCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/toprightCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/upDownCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/waitCursor.tiff
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/Current
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/copy.h
+c0000000047ACA3BA00000000000001A1
+t1202496442
+s417
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_angle.c
+c0000000047ACA3BA0000000000004CF3
+t1202496442
+s19699
+i"gle_osx.h"
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<tube.h>
+i"port.h"
+i"gutil.h"
+i"vvector.h"
+i"tube_gc.h"
+i"extrude.h"
+i"intersect.h"
+i"segment.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_cut_round.c
+c0000000047ACA3BA000000000000BB64
+t1202496442
+s47972
+i"gle_osx.h"
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<tube.h>
+i"port.h"
+i"gutil.h"
+i"vvector.h"
+i"tube_gc.h"
+i"extrude.h"
+i"intersect.h"
+i"segment.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_raw.c
+c0000000047ACA3BA0000000000006FC0
+t1202496442
+s28608
+i"gle_osx.h"
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<stdio.h>
+i<tube.h>
+i"port.h"
+i"gutil.h"
+i"vvector.h"
+i"tube_gc.h"
+i"extrude.h"
+i"intersect.h"
+i"segment.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.c
+c0000000047ACA3BA0000000000006592
+t1202496442
+s26002
+i"gle_osx.h"
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<tube.h>
+i"gutil.h"
+i"vvector.h"
+i"tube_gc.h"
+i"extrude.h"
+i"intersect.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.h
+c0000000047ACA3BA0000000000000FF0
+t1202496442
+s4080
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/gle_osx.h
+c0000000047ACA3BA00000000000000CC
+t1202496442
+s204
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/gutil.h
+c0000000047ACA3BA0000000000000A5E
+t1202496442
+s2654
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.c
+c0000000047ACA3BA0000000000000905
+t1202496442
+s2309
+i"gle_osx.h"
+i"gutil.h"
+i"intersect.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.h
+c0000000047ACA3BA00000000000036DC
+t1202496442
+s14044
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/port.h
+c0000000047ACA3BA0000000000001D53
+t1202496442
+s7507
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot.h
+c0000000047ACA3BA00000000000007D7
+t1202496442
+s2007
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot_prince.c
+c0000000047ACA3BA0000000000001D1C
+t1202496442
+s7452
+i"gle_osx.h"
+i<math.h>
+i"rot.h"
+i"port.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rotate.c
+c0000000047ACA3BA0000000000000E7B
+t1202496442
+s3707
+i"gle_osx.h"
+i"gutil.h"
+i"port.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/round_cap.c
+c0000000047ACA3BA00000000000019AE
+t1202496442
+s6574
+i"gle_osx.h"
+i<malloc.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<tube.h>
+i"port.h"
+i"gutil.h"
+i"vvector.h"
+i"extrude.h"
+i"tube_gc.h"
+i"intersect.h"
+i"segment.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.c
+c0000000047ACA3BA000000000000300F
+t1202496442
+s12303
+i"gle_osx.h"
+i<malloc.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"port.h"
+i"tube.h"
+i"extrude.h"
+i"tube_gc.h"
+i"segment.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.h
+c0000000047ACA3BA0000000000000FEA
+t1202496442
+s4074
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/texgen.c
+c0000000047ACA3BA0000000000002D40
+t1202496442
+s11584
+i"gle_osx.h"
+i<stdlib.h>
+i<math.h>
+i<tube.h>
+i"port.h"
+i"tube_gc.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/tube.h
+c0000000047ACA3BA00000000000022C7
+t1202496442
+s8903
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/tube_gc.h
+c0000000047ACA3BA0000000000000A06
+t1202496442
+s2566
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/urotate.c
+c0000000047ACA3BA00000000000018D1
+t1202496442
+s6353
+i"gle_osx.h"
+i<math.h>
+i"gutil.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/view.c
+c0000000047ACA3BA0000000000002498
+t1202496442
+s9368
+i"gle_osx.h"
+i<math.h>
+i"rot.h"
+i"gutil.h"
+i"vvector.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/vvector.h
+c0000000047ACA3BA00000000000088ED
+t1202496442
+s35053
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/glsmap.h
+c0000000047ACA3BA0000000000001422
+t1202496442
+s5154
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/glsmapint.h
+c0000000047ACA3BA000000000000089F
+t1202496442
+s2207
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_buildsmap.c
+c0000000047ACA3BA00000000000018B4
+t1202496442
+s6324
+i<assert.h>
+i<stdio.h>
+i<glsmap.h>
+i<OpenGL/glu.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_context.c
+c0000000047ACA3BA00000000000001AF
+t1202496442
+s431
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_create.c
+c0000000047ACA3BA0000000000000711
+t1202496442
+s1809
+i<glsmap.h>
+i<stdlib.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_destroy.c
+c0000000047ACA3BA000000000000028A
+t1202496442
+s650
+i<assert.h>
+i<stdlib.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_drawmesh.c
+c0000000047ACA3BA000000000000045D
+t1202496442
+s1117
+i<glsmap.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_flag.c
+c0000000047ACA3BA00000000000001A9
+t1202496442
+s425
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_get.c
+c0000000047ACA3BA00000000000002C3
+t1202496442
+s707
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getfunc.c
+c0000000047ACA3BA0000000000000209
+t1202496442
+s521
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexdim.c
+c0000000047ACA3BA00000000000001BB
+t1202496442
+s443
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexobj.c
+c0000000047ACA3BA0000000000000242
+t1202496442
+s578
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getvec.c
+c0000000047ACA3BA0000000000000281
+t1202496442
+s641
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_makemesh.c
+c0000000047ACA3BA0000000000001C9B
+t1202496442
+s7323
+i<assert.h>
+i<stdlib.h>
+i<math.h>
+i<glsmap.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_nearfar.c
+c0000000047ACA3BA0000000000000280
+t1202496442
+s640
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_origin.c
+c0000000047ACA3BA000000000000032A
+t1202496442
+s810
+i<glsmap.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_render.c
+c0000000047ACA3BA00000000000002D5
+t1202496442
+s725
+i<glsmap.h>
+i<OpenGL/glu.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_rvec2st.c
+c0000000047ACA3BA0000000000000867
+t1202496442
+s2151
+i<math.h>
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_set.c
+c0000000047ACA3BA00000000000002B1
+t1202496442
+s689
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setfunc.c
+c0000000047ACA3BA0000000000000205
+t1202496442
+s517
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setvec.c
+c0000000047ACA3BA0000000000000281
+t1202496442
+s641
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texdim.c
+c0000000047ACA3BA00000000000001B7
+t1202496442
+s439
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texobj.c
+c0000000047ACA3BA000000000000023E
+t1202496442
+s574
+i"glsmapint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut.h
+c0000000047ACA3BA000000000000578C
+t1202496442
+s22412
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_8x13.c
+c0000000047ACA3BA0000000000009753
+t1202496442
+s38739
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_9x15.c
+c0000000047ACA3BA0000000000009CA2
+t1202496442
+s40098
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bitmap.c
+c0000000047ACA3BA000000000000082E
+t1202496442
+s2094
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bwidth.c
+c0000000047ACA3BA0000000000000532
+t1202496442
+s1330
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_cindex.c
+c0000000047ACA3BA0000000000001FFA
+t1202496442
+s8186
+i<stdlib.h>
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_ext.c
+c0000000047ACA3BA00000000000025EB
+t1202496442
+s9707
+i<stdlib.h>
+i<string.h>
+i"glut.h"
+i"macx_utilities.h"
+i<OpenGL/CGLCurrent.h>
+i"glutint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel10.c
+c0000000047ACA3BA000000000000801B
+t1202496442
+s32795
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel12.c
+c0000000047ACA3BA0000000000008565
+t1202496442
+s34149
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel18.c
+c0000000047ACA3BA000000000000A91A
+t1202496442
+s43290
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_mroman.c
+c0000000047ACA3BA000000000000C669
+t1202496442
+s50793
+i"glutstroke.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_roman.c
+c0000000047ACA3BA000000000000C4DC
+t1202496442
+s50396
+i"glutstroke.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_shapes.c
+c0000000047ACA3BA0000000000003564
+t1202496442
+s13668
+i<math.h>
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_stroke.c
+c0000000047ACA3BA0000000000000429
+t1202496442
+s1065
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+i"glutstroke.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_swidth.c
+c0000000047ACA3BA00000000000004DE
+t1202496442
+s1246
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+i"glutstroke.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_teapot.c
+c0000000047ACA3BA0000000000001DCE
+t1202496442
+s7630
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr10.c
+c0000000047ACA3BA0000000000007C72
+t1202496442
+s31858
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr24.c
+c0000000047ACA3BA000000000000CC0C
+t1202496442
+s52236
+i"glutbitmap.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_vidresize.c
+c0000000047ACA3BA0000000000001B59
+t1202496442
+s7001
+i<stdlib.h>
+i<GL/glx.h>
+i<dlfcn.h>
+i"glut.h"
+i"macx_utilities.h"
+i"glutint.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glutbitmap.h
+c0000000047ACA3BA00000000000002C1
+t1202496442
+s705
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glutf90.h
+c0000000047ACA3BA00000000000010D9
+t1202496442
+s4313
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glutstroke.h
+c0000000047ACA3BA00000000000003AA
+t1202496442
+s938
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/libForeground.a
+c0000000047ACA3BA0000000000007340
+t1202496442
+s29504
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_cursor.m
+c0000000047ACA3BA0000000000001332
+t1202496442
+s4914
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dials.m
+c0000000047ACA3BA00000000000002A1
+t1202496442
+s673
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dstr.m
+c0000000047ACA3BA0000000000006E3A
+t1202496442
+s28218
+i<OpenGL/OpenGL.h>
+i<OpenGL/CGLTypes.h>
+i"macx_glut.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_event.m
+c0000000047ACA3BA000000000000475E
+t1202496442
+s18270
+i"macx_glut.h"
+i"GLUTApplication.h"
+i"GLUTView.h"
+i"GLUTWindow.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_fortran.m
+c0000000047ACA3BA000000000000126F
+t1202496442
+s4719
+i"glutf90.h"
+i"macx_glut.h"
+i"GLUTMenu.h"
+i"GLUTApplication.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_gamemode.m
+c0000000047ACA3BA0000000000005D1F
+t1202496442
+s23839
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_get.m
+c0000000047ACA3BA0000000000001357
+t1202496442
+s4951
+i"macx_glut.h"
+i"GLUTMenu.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_glut.h
+c0000000047ACA3BA0000000000004733
+t1202496442
+s18227
+i<CoreFoundation/CoreFoundation.h>
+i<ApplicationServices/ApplicationServices.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i"glut.h"
+i"glutf90.h"
+i"macx_utilities.h"
+i"HID_Utilities_External.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_init.m
+c0000000047ACA3BA0000000000004A6B
+t1202496442
+s19051
+i<unistd.h>
+i"macx_glut.h"
+i"GLUTApplication.h"
+i"HID_Utilities_External.h"
+i<IOKit/hid/IOHIDLib.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_input.m
+c0000000047ACA3BA0000000000001E12
+t1202496442
+s7698
+i"macx_glut.h"
+i"GLUTView.h"
+i<IOKit/hid/IOHIDLib.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_joy.m
+c0000000047ACA3BA0000000000003BD8
+t1202496442
+s15320
+i"macx_glut.h"
+i"GLUTView.h"
+i<IOKit/hid/IOHIDLib.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_key.m
+c0000000047ACA3BA0000000000000CD9
+t1202496442
+s3289
+i"macx_glut.h"
+i"GLUTView.h"
+i<IOKit/hidsystem/event_status_driver.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_menu.m
+c0000000047ACA3BA0000000000001DA2
+t1202496442
+s7586
+i"macx_glut.h"
+i"GLUTMenu.h"
+i"GLUTApplication.h"
+i"GLUTView.h"
+i"GLUTWindow.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_modifier.m
+c0000000047ACA3BA00000000000003AC
+t1202496442
+s940
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_overlay.m
+c0000000047ACA3BA00000000000017A0
+t1202496442
+s6048
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_space.m
+c0000000047ACA3BA0000000000005BF4
+t1202496442
+s23540
+i"macx_glut.h"
+i"GLUTView.h"
+i<IOKit/hid/IOHIDLib.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_swap.m
+c0000000047ACA3BA0000000000000554
+t1202496442
+s1364
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_tablet.m
+c0000000047ACA3BA00000000000002CE
+t1202496442
+s718
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_util.m
+c0000000047ACA3BA0000000000002A26
+t1202496442
+s10790
+i<dlfcn.h>
+i<stdlib.h>
+i<string.h>
+i"macx_glut.h"
+i"GLUTApplication.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_utilities.h
+c0000000047ACA3BA000000000000025D
+t1202496442
+s605
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_warp.m
+c0000000047ACA3BA000000000000037B
+t1202496442
+s891
+i"macx_glut.h"
+i"GLUTView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_win.m
+c0000000047ACA3BA0000000000005FC4
+t1202496442
+s24516
+i<OpenGL/CGLTypes.h>
+i"macx_glut.h"
+i"GLUTWindow.h"
+i"GLUTView.h"
+
+N/usr/include/assert.h
+c000000004AC59C810000000000000DCB
+t1254464641
+s3531
+
+N/usr/include/dlfcn.h
+c000000004BE8B6B70000000000000B1C
+t1273542327
+s2844
+
+N/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-aoyphxrzxujmtxfkoouujyejjpji/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-aryxbodopypiuacgeglbbvabbonm/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-axfvnljikptrdbfhogcmnbckgdcr/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bcrvnyurfijgowetsskczqxryvvj/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bgxagzazqepmprejifqvubohxvfp/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bvjyvotdlfpovybwmkcinsxzscbp/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-cgvxsfltglvfqebpkfsglmbbtvdv/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-cniowisarduklyfyodbawsdhguuh/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-ctlxovbecopidwaizrugofjpknrs/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-dieqkugsmeckwxaanmxvrtmaavas/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-djwbuhqltmhasmckuziyrtymtpbn/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-epsqviaexmbapmcookxzolwuwuxw/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-fjcrwhamhhsztweuxhyhhpdjuwwi/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-gjpsjfmggkjfsgcpvgmbmkurcrdq/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-gnsoctzmihxsaffesnawnygrnyba/GLUT_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-hbyzraaejsvlqkcvqpdqmlsbynnb/GLUT_Prefix.pch.gch
+t2
+s0
+
+NGLUT.exp
+c0000000047ACA3BA0000000000000E65
+t1202496442
+s3685
+
+NInfo.plist
+c0000000047ACA3BA0000000000000372
+t1202496442
+s882
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTApplication.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTClipboardController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTMenu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTMenuItem.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTPreferencesController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUTWindow.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Config_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Config_Utilities.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Error_Handler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Error_Handler.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Name_Lookup.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Queue_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Queue_Utilities.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/HID_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_angle.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_angle.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_cut_round.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_cut_round.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/ex_raw.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_raw.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/extrude.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_8x13.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_8x13.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_9x15.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_9x15.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_bitmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bitmap.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_bwidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bwidth.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_cindex.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_cindex.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_ext.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_ext.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel10.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel12.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel12.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_hel18.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel18.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_mroman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_mroman.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_roman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_roman.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_shapes.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_shapes.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_stroke.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_stroke.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_swidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_swidth.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_teapot.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_teapot.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_tr10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr10.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_tr24.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr24.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/glut_vidresize.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_vidresize.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/intersect.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_cursor.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_cursor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_dials.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dials.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_dstr.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dstr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_event.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_event.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_fortran.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_fortran.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_gamemode.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_gamemode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_get.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_init.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_init.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_input.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_input.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_joy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_joy.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_key.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_key.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_menu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_modifier.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_modifier.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_overlay.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_overlay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_space.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_space.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_swap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_swap.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_tablet.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_tablet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_util.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_util.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_warp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_warp.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/macx_win.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_win.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/rot_prince.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot_prince.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/rotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rotate.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/round_cap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/round_cap.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/segment.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_buildsmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_buildsmap.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_context.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_context.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_create.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_create.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_destroy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_destroy.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_drawmesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_drawmesh.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_flag.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_flag.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_get.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_getfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getfunc.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_gettexdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexdim.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_gettexobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexobj.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_getvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getvec.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_makemesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_makemesh.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_nearfar.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_nearfar.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_origin.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_origin.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_render.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_render.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_rvec2st.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_rvec2st.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_set.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_set.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_setfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setfunc.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_setvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setvec.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_texdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texdim.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/smap_texobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texobj.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/texgen.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/texgen.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/urotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/urotate.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/view.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/view.c" normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTApplication.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTClipboardController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTMenu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTMenuItem.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTPreferencesController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUTWindow.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Config_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Config_Utilities.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Error_Handler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Error_Handler.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Name_Lookup.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Queue_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Queue_Utilities.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/HID_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_angle.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_angle.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_cut_round.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_cut_round.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/ex_raw.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_raw.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/extrude.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_8x13.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_8x13.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_9x15.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_9x15.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_bitmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bitmap.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_bwidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bwidth.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_cindex.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_cindex.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_ext.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_ext.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel10.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel12.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel12.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_hel18.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel18.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_mroman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_mroman.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_roman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_roman.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_shapes.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_shapes.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_stroke.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_stroke.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_swidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_swidth.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_teapot.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_teapot.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_tr10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr10.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_tr24.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr24.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/glut_vidresize.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_vidresize.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/intersect.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_cursor.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_cursor.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_dials.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dials.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_dstr.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dstr.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_event.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_event.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_fortran.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_fortran.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_gamemode.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_gamemode.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_get.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_init.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_init.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_input.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_input.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_joy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_joy.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_key.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_key.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_menu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_menu.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_modifier.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_modifier.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_overlay.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_overlay.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_space.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_space.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_swap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_swap.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_tablet.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_tablet.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_util.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_util.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_warp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_warp.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/macx_win.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_win.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/rot_prince.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot_prince.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/rotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rotate.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/round_cap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/round_cap.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/segment.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_buildsmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_buildsmap.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_context.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_context.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_create.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_create.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_destroy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_destroy.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_drawmesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_drawmesh.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_flag.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_flag.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_get.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_getfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getfunc.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_gettexdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexdim.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_gettexobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexobj.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_getvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getvec.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_makemesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_makemesh.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_nearfar.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_nearfar.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_origin.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_origin.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_render.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_render.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_rvec2st.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_rvec2st.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_set.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_set.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_setfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setfunc.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_setvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setvec.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_texdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texdim.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/smap_texobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texobj.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/texgen.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/texgen.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/urotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/urotate.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/view.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/view.c" normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTApplication.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTClipboardController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTMenu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTMenuItem.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTPreferencesController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUTWindow.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Config_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Config_Utilities.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Error_Handler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Error_Handler.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Name_Lookup.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Queue_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Queue_Utilities.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/HID_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_angle.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_angle.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_cut_round.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_cut_round.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/ex_raw.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_raw.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/extrude.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_8x13.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_8x13.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_9x15.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_9x15.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_bitmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bitmap.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_bwidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bwidth.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_cindex.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_cindex.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_ext.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_ext.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel10.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel12.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel12.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_hel18.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel18.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_mroman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_mroman.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_roman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_roman.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_shapes.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_shapes.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_stroke.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_stroke.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_swidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_swidth.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_teapot.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_teapot.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_tr10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr10.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_tr24.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr24.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/glut_vidresize.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_vidresize.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/intersect.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_cursor.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_cursor.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_dials.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dials.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_dstr.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dstr.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_event.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_event.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_fortran.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_fortran.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_gamemode.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_gamemode.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_get.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_init.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_init.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_input.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_input.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_joy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_joy.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_key.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_key.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_menu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_menu.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_modifier.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_modifier.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_overlay.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_overlay.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_space.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_space.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_swap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_swap.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_tablet.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_tablet.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_util.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_util.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_warp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_warp.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/macx_win.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_win.m" normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/rot_prince.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot_prince.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/rotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rotate.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/round_cap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/round_cap.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/segment.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_buildsmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_buildsmap.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_context.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_context.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_create.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_create.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_destroy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_destroy.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_drawmesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_drawmesh.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_flag.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_flag.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_get.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_getfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getfunc.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_gettexdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexdim.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_gettexobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexobj.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_getvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getvec.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_makemesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_makemesh.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_nearfar.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_nearfar.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_origin.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_origin.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_render.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_render.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_rvec2st.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_rvec2st.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_set.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_set.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_setfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setfunc.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_setvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setvec.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_texdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texdim.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/smap_texobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texobj.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/texgen.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/texgen.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/urotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/urotate.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/view.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/view.c" normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTApplication.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTApplication.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTClipboardController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTClipboardController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTMenu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenu.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTMenuItem.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTMenuItem.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTPreferencesController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTPreferencesController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUTWindow.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/GLUTWindow.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Config_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Config_Utilities.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Error_Handler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Error_Handler.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Name_Lookup.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Name_Lookup.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Queue_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Queue_Utilities.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/HID_Utilities.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/HID_Utilities.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_angle.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_angle.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_cut_round.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_cut_round.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/ex_raw.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/ex_raw.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/extrude.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/extrude.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_8x13.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_8x13.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_9x15.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_9x15.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_bitmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bitmap.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_bwidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_bwidth.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_cindex.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_cindex.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_ext.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_ext.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel10.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel12.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel12.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_hel18.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_hel18.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_mroman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_mroman.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_roman.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_roman.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_shapes.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_shapes.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_stroke.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_stroke.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_swidth.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_swidth.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_teapot.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_teapot.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_tr10.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr10.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_tr24.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_tr24.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/glut_vidresize.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glut_vidresize.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/intersect.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/intersect.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_cursor.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_cursor.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_dials.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dials.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_dstr.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_dstr.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_event.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_event.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_fortran.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_fortran.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_gamemode.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_gamemode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_get.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_init.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_init.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_input.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_input.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_joy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_joy.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_key.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_key.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_menu.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_menu.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_modifier.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_modifier.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_overlay.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_overlay.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_space.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_space.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_swap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_swap.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_tablet.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_tablet.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_util.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_util.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_warp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_warp.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/macx_win.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/macx_win.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/rot_prince.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rot_prince.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/rotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/rotate.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/round_cap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/round_cap.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/segment.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/segment.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_buildsmap.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_buildsmap.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_context.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_context.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_create.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_create.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_destroy.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_destroy.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_drawmesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_drawmesh.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_flag.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_flag.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_get.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_get.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_getfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getfunc.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_gettexdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexdim.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_gettexobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_gettexobj.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_getvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_getvec.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_makemesh.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_makemesh.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_nearfar.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_nearfar.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_origin.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_origin.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_render.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_render.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_rvec2st.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_rvec2st.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_set.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_set.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_setfunc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setfunc.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_setvec.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_setvec.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_texdim.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texdim.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/smap_texobj.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/glsmap/smap_texobj.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/texgen.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/texgen.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/urotate.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/urotate.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/view.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/gle/view.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/Info.plist" Info.plist
+r0
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/GLUTUI.strings" English.lproj/GLUTUI.strings
+r0
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/Caution.tiff" Caution.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/blankCursor.tiff" Cursors/blankCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomCursor.tiff" Cursors/bottomCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomleftCursor.tiff" Cursors/bottomleftCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/bottomrightCursor.tiff" Cursors/bottomrightCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/crossCursor.tiff" Cursors/crossCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/cycleCursor.tiff" Cursors/cycleCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/destroyCursor.tiff" Cursors/destroyCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/fingerCursor.tiff" Cursors/fingerCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/helpCursor.tiff" Cursors/helpCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/leftCursor.tiff" Cursors/leftCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/leftRightCursor.tiff" Cursors/leftRightCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/rightArrowCursor.tiff" Cursors/rightArrowCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/rightCursor.tiff" Cursors/rightCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/sprayCursor.tiff" Cursors/sprayCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/topCursor.tiff" Cursors/topCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/topleftCursor.tiff" Cursors/topleftCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/toprightCursor.tiff" Cursors/toprightCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/upDownCursor.tiff" Cursors/upDownCursor.tiff
+r0
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/waitCursor.tiff" Cursors/waitCursor.tiff
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/copy.h gle/copy.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/extrude.h gle/extrude.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glsmap.h glsmap/glsmap.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glsmapint.h glsmap/glsmapint.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glut.h glut.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glutbitmap.h glutbitmap.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glutf90.h glutf90.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/glutstroke.h glutstroke.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/gutil.h gle/gutil.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/intersect.h gle/intersect.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/port.h gle/port.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/rot.h gle/rot.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/segment.h gle/segment.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/tube.h gle/tube.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/tube_gc.h gle/tube_gc.h
+r0
+
+CCpHeader build/Release/GLUT.framework/Versions/A/Headers/vvector.h gle/vvector.h
+r0
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/GLUT" normal "ppc7400 ppc64 i386 x86_64"
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/i386/GLUT" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc64/GLUT" normal ppc64
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/ppc7400/GLUT" normal ppc7400
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/GLUT_External.build/Release/GLUT.build/Objects-normal/x86_64/GLUT" normal x86_64
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/GLUT" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/A/Resources/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-aoyphxrzxujmtxfkoouujyejjpji/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-aryxbodopypiuacgeglbbvabbonm/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-axfvnljikptrdbfhogcmnbckgdcr/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bcrvnyurfijgowetsskczqxryvvj/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bgxagzazqepmprejifqvubohxvfp/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-bvjyvotdlfpovybwmkcinsxzscbp/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-cgvxsfltglvfqebpkfsglmbbtvdv/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-cniowisarduklyfyodbawsdhguuh/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-ctlxovbecopidwaizrugofjpknrs/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-dieqkugsmeckwxaanmxvrtmaavas/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-djwbuhqltmhasmckuziyrtymtpbn/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc7400 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-epsqviaexmbapmcookxzolwuwuxw/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-fjcrwhamhhsztweuxhyhhpdjuwwi/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-gjpsjfmggkjfsgcpvgmbmkurcrdq/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-gnsoctzmihxsaffesnawnygrnyba/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLUT_Prefix-hbyzraaejsvlqkcvqpdqmlsbynnb/GLUT_Prefix.pch.gch GLUT_Prefix.pch normal ppc7400 c com.apple.compilers.gcc.4_2
+r0
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUT.nib"
+r0
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUTClipboard.nib"
+r0
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/English.lproj/GLUTPreferences.nib"
+r0
+
+CSymLink "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/GLUT" Versions/Current/GLUT
+r0
+
+CSymLink "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Headers" Versions/Current/Headers
+r0
+
+CSymLink "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Resources" Versions/Current/Resources
+r0
+
+CSymLink "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework/Versions/Current" A
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/glut/build/Release/GLUT.framework"
+r0
+

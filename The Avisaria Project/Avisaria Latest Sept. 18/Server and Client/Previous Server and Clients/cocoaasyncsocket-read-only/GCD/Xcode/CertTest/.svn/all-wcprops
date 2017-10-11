@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/121/trunk/GCD/Xcode/CertTest
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/120/trunk/GCD/Xcode/CertTest/main.m
+END
+CertTestAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/120/trunk/GCD/Xcode/CertTest/CertTestAppDelegate.h
+END
+CertTest-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/120/trunk/GCD/Xcode/CertTest/CertTest-Info.plist
+END
+CertTest_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/120/trunk/GCD/Xcode/CertTest/CertTest_Prefix.pch
+END
+X509Certificate.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/121/trunk/GCD/Xcode/CertTest/X509Certificate.m
+END
+CertTestAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/120/trunk/GCD/Xcode/CertTest/CertTestAppDelegate.m
+END
+X509Certificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/121/trunk/GCD/Xcode/CertTest/X509Certificate.h
+END

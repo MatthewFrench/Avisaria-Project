@@ -1,0 +1,522 @@
+TEchoServer
+v7
+r0
+t313039662.442160
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Info.plist" EchoServer-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch.gch EchoServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/main.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServerAppDelegate.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/GCDAsyncSocket.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDASLLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDFileLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDLog.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDTTYLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer" normal x86_64
+cTouch "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C4DF89900000000000009CB
+t1280178329
+s2507
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004C5342AD000000000006603C
+t1280524973
+s417852
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004AC598620000000000001533
+t1254463586
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/asl.h
+c000000004AC59C81000000000000359D
+t1254464641
+s13725
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004AC599FE00000000000002C9
+t1254463998
+s713
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004AC59C8100000000000003EA
+t1254464641
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ifaddrs.h
+c000000004AC598710000000000000782
+t1254463601
+s1922
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/libkern/OSAtomic.h
+c000000004AC59C810000000000002519
+t1254464641
+s9497
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/mach/host_info.h
+c000000004C4DE4B20000000000001E6B
+t1280173234
+s7787
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/mach/mach_host.h
+c000000004AFD6AD30000000000004F74
+t1258121939
+s20340
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C4DE4AD00000000000034A5
+t1280173229
+s13477
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004AC598B10000000000003057
+t1254463665
+s12375
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C4DE4AE000000000000539D
+t1280173230
+s21405
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/runtime.h
+c000000004C4DF4B1000000000000530A
+t1280177329
+s21258
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004AC59C8100000000000038F0
+t1254464641
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/attr.h
+c000000004C4DE4B10000000000004308
+t1280173233
+s17160
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C4DE4B2000000000000116C
+t1280173234
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/poll.h
+c000000004C4DE4B3000000000000123C
+t1280173235
+s4668
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C4DE4B400000000000059BC
+t1280173236
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C4DE4B40000000000002905
+t1280173236
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004C4DE4B50000000000001126
+t1280173237
+s4390
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/xattr.h
+c000000004C4DE4B50000000000000BCB
+t1280173237
+s3019
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Vendor/CocoaLumberjack/DDASLLogger.h
+c000000004CF8472A0000000000000491
+t1291339562
+s1169
+i<Foundation/Foundation.h>
+i<asl.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Vendor/CocoaLumberjack/DDFileLogger.h
+c000000004CF8472A000000000000265B
+t1291339562
+s9819
+i<Foundation/Foundation.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Vendor/CocoaLumberjack/DDLog.h
+c000000004CF8472A000000000000479D
+t1291339562
+s18333
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Vendor/CocoaLumberjack/DDTTYLogger.h
+c000000004CF8472A000000000000056B
+t1291339562
+s1387
+i<Foundation/Foundation.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m
+c000000004CF8472A000000000000076D
+t1291339562
+s1901
+i"DDASLLogger.h"
+i<libkern/OSAtomic.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m
+c000000004CF8472A00000000000094AF
+t1291339562
+s38063
+i"DDFileLogger.h"
+i<unistd.h>
+i<sys/attr.h>
+i<sys/xattr.h>
+i<libkern/OSAtomic.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.h
+c000000004CF8472A000000000000479D
+t1291339562
+s18333
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m
+c000000004CF8472A00000000000097EC
+t1291339562
+s38892
+i"DDLog.h"
+i<pthread.h>
+i<objc/runtime.h>
+i<mach/mach_host.h>
+i<mach/host_info.h>
+i<libkern/OSAtomic.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.h
+c000000004CF8472A000000000000056B
+t1291339562
+s1387
+i<Foundation/Foundation.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m
+c000000004CF8472A0000000000000F28
+t1291339562
+s3880
+i"DDTTYLogger.h"
+i<unistd.h>
+i<sys/uio.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.h
+c000000004CF8472900000000000001AB
+t1291339561
+s427
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m
+c000000004CF847290000000000001EF6
+t1291339561
+s7926
+i"EchoServerAppDelegate.h"
+i"GCDAsyncSocket.h"
+i"DDLog.h"
+i"DDTTYLogger.h"
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServer_Prefix.pch
+c000000004CF847290000000000000097
+t1291339561
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/InfoPlist.strings
+c000000004CF84729000000000000002D
+t1291339561
+s45
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib
+c000000004CF847290000000000031F90
+t1291339561
+s204688
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app
+t1291339722
+s102
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Info.plist
+t1291339715
+s895
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer
+t1291339722
+s302224
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/PkgInfo
+t1291339715
+s8
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1291339716
+s92
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1291339716
+s40782
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDASLLogger.o
+t1291339721
+s16828
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDFileLogger.o
+t1291339721
+s101604
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDLog.o
+t1291339722
+s70992
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDTTYLogger.o
+t1291339722
+s23600
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServer.LinkFileList
+c000000004CF847C300000000000004AE
+t1291339715
+s1198
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServerAppDelegate.o
+t1291339721
+s60296
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1291339722
+s361388
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/main.o
+t1291339720
+s5088
+
+N/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m
+c000000004CF847290000000000000101
+t1291339561
+s257
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch.gch
+t1291339720
+s54265616
+
+NEchoServer-Info.plist
+c000000004CF8472900000000000003EA
+t1291339561
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313039662#313039662#0(0"0(0#1#0"8619829600#0"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDASLLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032521.106893
+e313032521.347938
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDASLLogger.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m313032521#313032521#0(0"0(0#0#131"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m8604124192#2125"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDASLLogger.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDASLLogger.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDFileLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032521.348082
+e313032521.854429
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDFileLogger.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m313032521#313032521#0(0"0(0#0#132"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m8605906624#2127"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDFileLogger.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDFileLogger.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDLog.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032521.854558
+e313032522.332852
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDLog.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m313032521#313032522#0(0"0(0#0#125"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m8602955968#2113"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDLog.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDLog.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDTTYLogger.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032522.329666
+e313032522.541931
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDTTYLogger.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m313032522#313032522#0(0"0(0#0#131"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m8601111744#2125"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../Vendor/CocoaLumberjack/DDTTYLogger.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/DDTTYLogger.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServerAppDelegate.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032520.798911
+e313032521.106755
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServerAppDelegate.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m313032520#313032521#0(0"0(0#0#112"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m8604054656#2116"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServerAppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServerAppDelegate.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/GCDAsyncSocket.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032521.004699
+e313032522.329481
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m313032521#313032522#0(0"0(0#0#111"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m8600953984#2108"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/../../GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/main.o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032520.797556
+e313032521.004524
+r1
+xCompileC
+xbuild/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m313032520#313032521#0(0"0(0#0#95"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m8600942272#2082"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/main.m" -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib"
+s313032515.838793
+e313032516.464285
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313032515#313032516#0(0"0(0#0#115"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib8600576288#523"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s313032515.824166
+e313032516.073189
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313032515#313032516#0(0"0(0#0#120"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/English.lproj/InfoPlist.strings8600895680#472"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer" normal x86_64
+s313032522.542058
+e313032522.688780
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer
+xnormal
+xx86_64
+lSLF07#2@146"Link /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer313032522#313032522#0(0"0(0#0#0"8603110752#837"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/Objects-normal/x86_64/EchoServer.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/MacOS/EchoServer"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Info.plist" EchoServer-Info.plist
+s313032515.817609
+e313032515.824043
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Info.plist
+xEchoServer-Info.plist
+lSLF07#2@29"Process EchoServer-Info.plist313032515#313032515#0(0"0(0#0#110"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServer-Info.plist8605903840#475"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    builtin-infoPlistUtility EchoServer-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch.gch EchoServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313032516.464480
+e313032520.797327
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch.gch
+xEchoServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile EchoServer_Prefix.pch313032516#313032520#0(0"0(0#0#110"/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServer_Prefix.pch8603789920#1933"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/EchoServer-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/EchoServer.build/Debug/EchoServer.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/EchoServer_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EchoServer_Prefix-armwvhydctacwwfeqlgcgajtfzuv/EchoServer_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app"
+s313032522.688900
+e313032522.692711
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app
+lSLF07#2@121"Touch /Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app313032522#313032522#0(0"0(0#0#0"8603251040#238"    cd "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/cocoaasyncsocket-read-only/GCD/Xcode/EchoServer/build/Debug/EchoServer.app"0#
+

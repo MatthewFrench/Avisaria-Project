@@ -1,0 +1,2086 @@
+TChat Client
+v7
+r0
+t315618414.721591
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Info.plist" Chat_Client-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib"
+cCpResource "build/Debug/Avisaria.app/Contents/Resources/1 old.png" "tiles/1 old.png"
+cCpResource build/Debug/Avisaria.app/Contents/Resources/1.png tiles/1.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/2.png tiles/2.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/3.png tiles/3.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/4.png tiles/4.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/5.png tiles/5.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/6.png tiles/6.png
+cCpResource build/Debug/Avisaria.app/Contents/Resources/7.png tiles/7.png
+cCpResource "build/Debug/Avisaria.app/Contents/Resources/World Data.ganrocks" "World Data.ganrocks"
+cCpResource build/Debug/Avisaria.app/Contents/Resources/player.png player.png
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Player.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/ObjectData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Texture.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/WorldView.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GLString.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria" normal i386
+cTouch "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c0000000047BADA0D0000000000000422
+t1203427853
+s1058
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLContext.h
+c000000004702C63B0000000000000237
+t1191364155
+s567
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004702C63B0000000000001654
+t1191364155
+s5716
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004702C63B0000000000025B59
+t1191364155
+s154457
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004702C63B000000000003C74B
+t1191364155
+s247627
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004702C63B0000000000003F8D
+t1191364155
+s16269
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004B760CD4000000000000CB3C
+t1266027732
+s52028
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c0000000047BB1D140000000000000100
+t1203445012
+s256
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004B760CD700000000000046C8
+t1266027735
+s18120
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c00000000490261C600000000000009CB
+t1224892870
+s2507
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004B760CDB000000000006676C
+t1266027739
+s419692
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/fcntl.h
+c0000000047BA993000000000000003EA
+t1203411248
+s1002
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/ifaddrs.h
+c00000000464386E00000000000000782
+t1178830560
+s1922
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/net/if.h
+c0000000047E883BC00000000000033C4
+t1206420412
+s13252
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netinet/in.h
+c0000000047E883C30000000000005346
+t1206420419
+s21318
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/ioctl.h
+c0000000047E883CF00000000000011D1
+t1206420431
+s4561
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/poll.h
+c0000000047E883D0000000000000123C
+t1206420432
+s4668
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/socket.h
+c0000000047E883D1000000000000559B
+t1206420433
+s21915
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h
+c0000000047E883D2000000000000290F
+t1206420434
+s10511
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/uio.h
+c0000000047E883D20000000000001130
+t1206420434
+s4400
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h
+c0000000047BA993200000000000053FF
+t1203411250
+s21503
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B73FBEF000000000000043A
+t1265892335
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLContext.h
+c000000004BD2501F000000000000022D
+t1272074271
+s557
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BD2501F0000000000001659
+t1272074271
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004BD2501F0000000000042ACF
+t1272074271
+s273103
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BD2501F0000000000003F84
+t1272074271
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004CAA7405000000000000DB14
+t1286239237
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004CAA740500000000000036E0
+t1286239237
+s14048
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C23A06400000000000009CB
+t1277403236
+s2507
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004CAA7405000000000006611C
+t1286239237
+s418076
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004BBD2CC60000000000001533
+t1270688966
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004B738B07000000000000054D
+t1265863431
+s1357
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ifaddrs.h
+c000000004BBD2CCE0000000000000782
+t1270688974
+s1922
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C23994300000000000035E3
+t1277401411
+s13795
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004BBD2D1D000000000000307F
+t1270689053
+s12415
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C2399440000000000005414
+t1277401412
+s21524
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/poll.h
+c000000004C239947000000000000123C
+t1277401415
+s4668
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C23994800000000000059BC
+t1277401416
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004C2399480000000000001126
+t1277401416
+s4390
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CD6063E0000000000D00CA0
+t1289094718
+s13634720
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.h
+c000000004D1FA9860000000000000A64
+t1293920646
+s2660
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+i"Player.h"
+i"WorldView.h"
+i<Quartz/Quartz.h>
+i"Texture.h"
+i"MapData.h"
+i"ObjectData.h"
+i"GLString.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m
+c000000004D1FBCD80000000000006B00
+t1293925592
+s27392
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.h
+c000000004CF8472B00000000000037E2
+t1291339563
+s14306
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m
+c000000004CF8472B00000000000102C8
+t1291339563
+s66248
+i"AsyncUdpSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<sys/ioctl.h>
+i<net/if.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch
+c000000004CF81F620000000000000099
+t1291329378
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/InfoPlist.strings
+c000000004CF81F62000000000000002D
+t1291329378
+s45
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib
+c000000004D20C633000000000003016B
+t1293993523
+s196971
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.h
+c000000004D16B0E00000000000000E38
+t1293332704
+s3640
+i<Cocoa/Cocoa.h>
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+i<OpenGL/OpenGL.h>
+i<OpenGL/CGLContext.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m
+c000000004D16BCC90000000000002787
+t1293335753
+s10119
+i"GLString.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.h
+c000000004D13E6A00000000000000210
+t1293149856
+s528
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m
+c000000004D14E31A0000000000001572
+t1293214490
+s5490
+i"MapData.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.h
+c000000004D1FA9ED0000000000000253
+t1293920749
+s595
+i<Cocoa/Cocoa.h>
+i"GCDAsyncSocket.h"
+i"AsyncUdpSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m
+c000000004D1FB7340000000000001281
+t1293924148
+s4737
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.h
+c000000004D14E1CE0000000000000192
+t1293214158
+s402
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m
+c000000004D14E43F00000000000006A2
+t1293214783
+s1698
+i"ObjectData.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.h
+c000000004D16BE1F0000000000000231
+t1293336095
+s561
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+i"GLString.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m
+c000000004D17ADA40000000000000263
+t1293397412
+s611
+i"Player.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.h
+c000000004D115A8A000000000000021A
+t1292982922
+s538
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i<OpenGL/glu.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m
+c000000004D16BCC90000000000000C97
+t1293335753
+s3223
+i"Texture.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks
+c000000004D1BA3A20000000000012109
+t1293656994
+s73993
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.h
+c000000004D138FC400000000000000CC
+t1293127620
+s204
+i<Cocoa/Cocoa.h>
+i<AppKit/Appkit.h>
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i<OpenGL/glu.h>
+i"Texture.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m
+c000000004D1D1FA30000000000000C3D
+t1293754275
+s3133
+i"WorldView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app
+t1293923596
+s102
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Info.plist
+t1293923589
+s910
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/MacOS/Avisaria Client
+t1293923596
+s299012
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/PkgInfo
+t1293923589
+s8
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/1 2.png
+t1293923589
+s6657
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/1 old.png
+t1293923589
+s2242
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/1.png
+t1293923589
+s9865
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/2.png
+t1293923589
+s4354
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/3.png
+t1293923589
+s6350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/4.png
+t1293923589
+s2350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/5.png
+t1293923589
+s7213
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/6.png
+t1293923589
+s11380
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/7.png
+t1293923589
+s3347
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293923589
+s92
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293923590
+s35468
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/World Data.ganrocks
+t1293923589
+s69866
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/humanM1.gif
+t1293923589
+s441
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/room1.gif
+t1293923589
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app
+t1293925614
+s102
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Info.plist
+t1293925607
+s889
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria
+t1293925614
+s303108
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/PkgInfo
+t1293925607
+s8
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/1 2.png
+t1293924712
+s6657
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/1 old.png
+t1293925607
+s2242
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/1.png
+t1293925607
+s6657
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/2.png
+t1293925607
+s4354
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/3.png
+t1293925607
+s6350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/4.png
+t1293925607
+s2350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/5.png
+t1293925607
+s7213
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/6.png
+t1293925607
+s11380
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/7.png
+t1293925607
+s3347
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293925607
+s92
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293925607
+s35468
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/World Data.ganrocks
+t1293925607
+s73993
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/humanM1.gif
+t1293924712
+s441
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/player.png
+t1293925607
+s5674
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/room1.gif
+t1293924712
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app
+t1293921649
+s102
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Info.plist
+t1293911085
+s898
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client
+t1293921649
+s299012
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/PkgInfo
+t1293911085
+s8
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/1 2.png
+t1293911085
+s6657
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/1 old.png
+t1293911085
+s2242
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/1.png
+t1293911085
+s9865
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/2.png
+t1293911085
+s4354
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/3.png
+t1293911085
+s6350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/4.png
+t1293911085
+s2350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/5.png
+t1293911085
+s7213
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/6.png
+t1293911085
+s11380
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/7.png
+t1293911085
+s3347
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293911085
+s92
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293911085
+s35468
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/World Data.ganrocks
+t1293911085
+s69866
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/humanM1.gif
+t1293911085
+s441
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/room1.gif
+t1293911085
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AppDelegate.o
+t1293925612
+s124240
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AsyncUdpSocket.o
+t1293925613
+s103036
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Avisaria Client.LinkFileList
+c000000004D1FB5050000000000000672
+t1293923589
+s1650
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Avisaria.LinkFileList
+c000000004D1FBCE70000000000000672
+t1293925607
+s1650
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GCDAsyncSocket.o
+t1293925613
+s266324
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GLString.o
+t1293925614
+s83568
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/MapData.o
+t1293925613
+s21156
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Move Client.LinkFileList
+c000000004D1B946F0000000000000672
+t1293653103
+s1650
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/NetworkingController.o
+t1293925612
+s70596
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/ObjectData.o
+t1293925614
+s15708
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Player.o
+t1293925613
+s48092
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Texture.o
+t1293925614
+s15744
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/WorldView.o
+t1293925614
+s60880
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/main.o
+t1293925612
+s4920
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+t1293398195
+s140800
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+t1293225809
+s138432
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1293225809
+s362756
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GLString.o
+t1293335755
+s97348
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/MapData.o
+t1293225809
+s31544
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList
+c000000004D16B0E00000000000000688
+t1293332704
+s1672
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+t1293336096
+s79884
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/ObjectData.o
+t1293225809
+s21964
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+t1293397413
+s54360
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Texture.o
+t1293335755
+s18964
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+t1293336097
+s60624
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+t1293225807
+s5056
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif
+c000000004B16712C00000000000001B9
+t1259761964
+s441
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m
+c000000004CF81F620000000000000103
+t1291329378
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/player.png
+c000000004D1FBC75000000000000162A
+t1293925493
+s5674
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif
+c000000004CA3A6B4000000000004F7F1
+t1285793460
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png
+c000000004C2CAD0800000000000008C2
+t1277996296
+s2242
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png
+c000000004D1FBC720000000000001A01
+t1293925490
+s6657
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png
+c000000004CE067340000000000001102
+t1289774900
+s4354
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png
+c000000004CE1AD7F00000000000018CE
+t1289858431
+s6350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png
+c000000004C326ACC000000000000092E
+t1278372556
+s2350
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png
+c000000004CE06F000000000000001C2D
+t1289776896
+s7213
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png
+c000000004D151DCC0000000000002C74
+t1293229516
+s11380
+
+N/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png
+c000000004D151ED80000000000000D13
+t1293229784
+s3347
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.h
+c000000004D03D63300000000000007DE
+t1292097075
+s2014
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+i"Player.h"
+i"WorldView.h"
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m
+c000000004D03E79E00000000000044C9
+t1292101534
+s17609
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.h
+c000000004CF8472B00000000000037E2
+t1291339563
+s14306
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m
+c000000004CF8472B00000000000102C8
+t1291339563
+s66248
+i"AsyncUdpSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<sys/ioctl.h>
+i<net/if.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch
+c000000004CF81F620000000000000099
+t1291329378
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/InfoPlist.strings
+c000000004CF81F62000000000000002D
+t1291329378
+s45
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib
+c000000004D03E6DA0000000000038033
+t1292101338
+s229427
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.h
+c000000004D02CE08000000000000022C
+t1292029448
+s556
+i<Cocoa/Cocoa.h>
+i"GCDAsyncSocket.h"
+i"AsyncUdpSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m
+c000000004D03B92100000000000011B5
+t1292089633
+s4533
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.h
+c000000004D02CE0800000000000002B9
+t1292029448
+s697
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m
+c000000004D03E5EA000000000000031D
+t1292101098
+s797
+i"Player.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.h
+c000000004CCF31260000000000000136
+t1288646950
+s310
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m
+c000000004D03CB8A0000000000000604
+t1292094346
+s1540
+i"WorldView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app
+t1292101535
+s102
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist
+t1292091324
+s898
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client
+t1292101535
+s326944
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/PkgInfo
+t1292091324
+s8
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292091325
+s92
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292101340
+s42959
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/humanM1.gif
+t1292091325
+s441
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/room1.gif
+t1292091325
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/stickman.png
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+t1292101535
+s92988
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+t1292091331
+s138432
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1292091331
+s362756
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList
+c000000004D03BFBC0000000000000437
+t1292091324
+s1079
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+t1292097076
+s45444
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+t1292101099
+s26556
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+t1292097076
+s27960
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+t1292091329
+s5056
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/humanM1.gif
+c000000004B16712C00000000000001B9
+t1259761964
+s441
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m
+c000000004CF81F620000000000000103
+t1291329378
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/room1.gif
+c000000004CA3A6B4000000000004F7F1
+t1285793460
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/stickman.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bgglducqpshiqcefmxzuchtethbo/Chat_Client_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch
+t1292091329
+s54273808
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ggvobtnpcuzffchiyfxvshezzayx/Chat_Client_Prefix.pch.gch
+t1293653112
+s54120880
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch.gch
+t1293925611
+s56944432
+
+NChat_Client-Info.plist
+c000000004D1FB57300000000000003E0
+t1293923699
+s992
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315618407#315618407#0(0"0(0#1#0"8607448768#0"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618412.031592
+e315618412.677643
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m315618412#315618412#0(0"0(0#0#82"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m8611179264#1888"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618413.084501
+e315618413.629557
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m315618413#315618413#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m8611602432#1894"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/AsyncUdpSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618412.677769
+e315618413.945994
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m315618412#315618413#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m8613338016#1894"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GCDAsyncSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GLString.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618414.212038
+e315618414.589741
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GLString.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m315618414#315618414#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m8612325280#1882"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/GLString.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/MapData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618413.629832
+e315618413.893372
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/MapData.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m315618413#315618413#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m8603076352#1880"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/MapData.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618412.249684
+e315618412.710556
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m315618412#315618412#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m8603512384#1906"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/NetworkingController.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/ObjectData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618413.893500
+e315618414.187752
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/ObjectData.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m315618413#315618414#0(0"0(0#0#81"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m8612496736#1886"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/ObjectData.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Player.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618412.710690
+e315618413.083563
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Player.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m315618412#315618413#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m8612963200#1878"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Player.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Texture.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618413.946132
+e315618414.211902
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Texture.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m315618413#315618414#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m8612263168#1880"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Texture.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/WorldView.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618414.187898
+e315618414.619692
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/WorldView.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m315618414#315618414#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m8612727104#1884"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/WorldView.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618412.030185
+e315618412.249346
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m315618412#315618412#0(0"0(0#0#75"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m8611778752#1874"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315090993.860381
+e315090995.407878
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m315090993#315090995#0(0"0(0#0#82"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m8619255296#1906"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313794334.247218
+e313794335.490679
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m313794334#313794335#0(0"0(0#0#83"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m8621846368#1917"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918608.586972
+e314918609.213853
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m314918608#314918609#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m8619744288#1912"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784130.956362
+e313784131.603944
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m313784130#313784131#0(0"0(0#0#86"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m8624515808#1923"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918607.854192
+e314918609.255758
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m314918607#314918609#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m8620509248#1912"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784130.267699
+e313784131.693198
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m313784130#313784131#0(0"0(0#0#86"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m8623339648#1923"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GLString.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315028554.937117
+e315028555.652028
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GLString.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m315028554#315028555#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m8626288800#1900"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/GLString.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GLString.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/MapData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918609.214209
+e314918609.556756
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/MapData.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m314918609#314918609#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m8620757760#1898"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/MapData.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/MapData.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315028895.763137
+e315028896.855554
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m315028895#315028896#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m8626752288#1924"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313789875.669119
+e313789876.300317
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m313789875#313789876#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m8620523552#1935"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/ObjectData.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918609.256071
+e314918609.596203
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/ObjectData.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m314918609#314918609#0(0"0(0#0#81"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m8620484352#1904"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/ObjectData.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/ObjectData.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315090212.678584
+e315090213.685929
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m315090212#315090213#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m8613291328#1896"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Player.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313793898.843742
+e313793899.905134
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m313793898#313793899#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m8631003968#1907"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Texture.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315028554.087321
+e315028555.327104
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Texture.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m315028554#315028555#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m8631617408#1898"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Texture.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Texture.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315028897.168490
+e315028897.590002
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m315028897#315028897#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m8624922304#1902"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/WorldView.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313789876.300733
+e313789876.912947
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m313789876#313789876#0(0"0(0#0#81"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m8629148256#1913"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918607.441944
+e314918607.655639
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m314918607#314918607#0(0"0(0#0#75"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m8622237248#1892"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/main.m" -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784129.705285
+e313784129.910825
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m313784129#313784129#0(0"0(0#0#76"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m8622785184#1903"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib"
+s315618407.235545
+e315618407.910569
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib:593: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315618407#315618407#0(182"/* com.apple.ibtool.document.notices *//Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib:593: note: This view is clipping its content.1(13@34"This view is clipping its content.315618407#18446744073709551615#0#0(6@95"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib315468938#593#0#593#0#0"0(0#0#95"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib8612437984#461"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib"
+s313794139.753510
+e313794140.581925
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313794139#313794140#0(0"0(0#0#96"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib8623003648#467"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315616389.478806
+e315616389.519053
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315616389#315616389#0(0"0(0#0#100"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/InfoPlist.strings8624085888#437"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315618407.234355
+e315618407.274450
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315618407#315618407#0(0"0(0#0#100"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/InfoPlist.strings8613437088#430"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315603885.214857
+e315603885.530195
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315603885#315603885#0(0"0(0#0#100"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/English.lproj/InfoPlist.strings8613225056#433"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s313784124.988809
+e313784125.054072
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313784124#313784125#0(0"0(0#0#101"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/InfoPlist.strings8621729280#435"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/1 2.png" "tiles/1 2.png"
+s315616389.521704
+e315616389.549670
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/1 2.png
+xtiles/1 2.png
+lSLF07#2@18"Copy tiles/1 2.png315616389#315616389#0(0"0(0#0#82"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png8622842976#447"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/1 old.png" "tiles/1 old.png"
+s315616389.523234
+e315616389.549821
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/1 old.png
+xtiles/1 old.png
+lSLF07#2@20"Copy tiles/1 old.png315616389#315616389#0(0"0(0#0#84"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png8622824672#449"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/1.png" tiles/1.png
+s315616389.528087
+e315616389.549969
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/1.png
+xtiles/1.png
+lSLF07#2@16"Copy tiles/1.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png8622752192#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/2.png" tiles/2.png
+s315616389.530583
+e315616389.550119
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/2.png
+xtiles/2.png
+lSLF07#2@16"Copy tiles/2.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png8622665088#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/3.png" tiles/3.png
+s315616389.537404
+e315616389.567702
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/3.png
+xtiles/3.png
+lSLF07#2@16"Copy tiles/3.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png8622569120#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/4.png" tiles/4.png
+s315616389.539520
+e315616389.568181
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/4.png
+xtiles/4.png
+lSLF07#2@16"Copy tiles/4.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png8622487872#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/5.png" tiles/5.png
+s315616389.543530
+e315616389.569266
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/5.png
+xtiles/5.png
+lSLF07#2@16"Copy tiles/5.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png8622404640#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/6.png" tiles/6.png
+s315616389.554116
+e315616389.569553
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/6.png
+xtiles/6.png
+lSLF07#2@16"Copy tiles/6.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png8622268416#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/7.png" tiles/7.png
+s315616389.559640
+e315616389.567526
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/7.png
+xtiles/7.png
+lSLF07#2@16"Copy tiles/7.png315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png8622244576#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/World Data.ganrocks" "World Data.ganrocks"
+s315616389.551221
+e315616389.567334
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/World Data.ganrocks
+xWorld Data.ganrocks
+lSLF07#2@24"Copy World Data.ganrocks315616389#315616389#0(0"0(0#0#88"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks8622322560#453"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+s315616389.519178
+e315616389.549346
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/humanM1.gif
+xhumanM1.gif
+lSLF07#2@16"Copy humanM1.gif315616389#315616389#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif8622956352#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria Client.app/Contents/Resources/room1.gif" room1.gif
+s315616389.520450
+e315616389.549516
+r1
+xCpResource
+xbuild/Debug/Avisaria Client.app/Contents/Resources/room1.gif
+xroom1.gif
+lSLF07#2@14"Copy room1.gif315616389#315616389#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif8622870848#443"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria.app/Contents/Resources/1 2.png" "tiles/1 2.png"
+s315617512.163693
+e315617512.202290
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/1 2.png
+xtiles/1 2.png
+lSLF07#2@18"Copy tiles/1 2.png315617512#315617512#0(0"0(0#0#82"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png8611701184#440"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria.app/Contents/Resources/1 old.png" "tiles/1 old.png"
+s315618407.274724
+e315618407.303608
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/1 old.png
+xtiles/1 old.png
+lSLF07#2@20"Copy tiles/1 old.png315618407#315618407#0(0"0(0#0#84"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png8612072448#442"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Avisaria.app/Contents/Resources/World Data.ganrocks" "World Data.ganrocks"
+s315618407.297307
+e315618407.312915
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/World Data.ganrocks
+xWorld Data.ganrocks
+lSLF07#2@24"Copy World Data.ganrocks315618407#315618407#0(0"0(0#0#88"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks8611170624#446"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/1 2.png" "tiles/1 2.png"
+s315603885.548307
+e315603885.589299
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/1 2.png
+xtiles/1 2.png
+lSLF07#2@18"Copy tiles/1 2.png315603885#315603885#0(0"0(0#0#82"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png8614001024#443"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/1 old.png" "tiles/1 old.png"
+s315603885.551108
+e315603885.590094
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/1 old.png
+xtiles/1 old.png
+lSLF07#2@20"Copy tiles/1 old.png315603885#315603885#0(0"0(0#0#84"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png8613342944#445"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1 old.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/1.png" tiles/1.png
+s315603885.559484
+e315603885.590304
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/1.png
+xtiles/1.png
+lSLF07#2@16"Copy tiles/1.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png8613953920#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/2.png" tiles/2.png
+s315603885.562514
+e315603885.610791
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/2.png
+xtiles/2.png
+lSLF07#2@16"Copy tiles/2.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png8614045824#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/3.png" tiles/3.png
+s315603885.567870
+e315603885.610957
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/3.png
+xtiles/3.png
+lSLF07#2@16"Copy tiles/3.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png8614007808#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/4.png" tiles/4.png
+s315603885.573460
+e315603885.611106
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/4.png
+xtiles/4.png
+lSLF07#2@16"Copy tiles/4.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png8613971520#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/5.png" tiles/5.png
+s315603885.586447
+e315603885.611255
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/5.png
+xtiles/5.png
+lSLF07#2@16"Copy tiles/5.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png8613928992#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/6.png" tiles/6.png
+s315603885.595181
+e315603885.651451
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/6.png
+xtiles/6.png
+lSLF07#2@16"Copy tiles/6.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png8613855424#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/7.png" tiles/7.png
+s315603885.602385
+e315603885.651874
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/7.png
+xtiles/7.png
+lSLF07#2@16"Copy tiles/7.png315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png8613828256#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/World Data.ganrocks" "World Data.ganrocks"
+s315603885.590408
+e315603885.652971
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/World Data.ganrocks
+xWorld Data.ganrocks
+lSLF07#2@24"Copy World Data.ganrocks315603885#315603885#0(0"0(0#0#88"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks8613899680#449"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/World Data.ganrocks" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+s315603885.530310
+e315603885.589118
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/humanM1.gif
+xhumanM1.gif
+lSLF07#2@16"Copy humanM1.gif315603885#315603885#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif8613730496#441"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/room1.gif" room1.gif
+s315603885.540439
+e315603885.661516
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/room1.gif
+xroom1.gif
+lSLF07#2@14"Copy room1.gif315603885#315603885#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif8613937600#439"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/stickman.png" stickman.png
+r0
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/1.png tiles/1.png
+s315618407.276003
+e315618407.303782
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/1.png
+xtiles/1.png
+lSLF07#2@16"Copy tiles/1.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png8611918560#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/1.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/2.png tiles/2.png
+s315618407.277508
+e315618407.303927
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/2.png
+xtiles/2.png
+lSLF07#2@16"Copy tiles/2.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png8611864736#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/2.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/3.png tiles/3.png
+s315618407.284226
+e315618407.304074
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/3.png
+xtiles/3.png
+lSLF07#2@16"Copy tiles/3.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png8611749152#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/3.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/4.png tiles/4.png
+s315618407.285689
+e315618407.304219
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/4.png
+xtiles/4.png
+lSLF07#2@16"Copy tiles/4.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png8611519104#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/4.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/5.png tiles/5.png
+s315618407.286793
+e315618407.304361
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/5.png
+xtiles/5.png
+lSLF07#2@16"Copy tiles/5.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png8611471616#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/5.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/6.png tiles/6.png
+s315618407.291104
+e315618407.310607
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/6.png
+xtiles/6.png
+lSLF07#2@16"Copy tiles/6.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png8611398240#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/6.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/7.png tiles/7.png
+s315618407.293564
+e315618407.310779
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/7.png
+xtiles/7.png
+lSLF07#2@16"Copy tiles/7.png315618407#315618407#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png8611380224#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/tiles/7.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/humanM1.gif humanM1.gif
+s315617512.159755
+e315617512.201956
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/humanM1.gif
+xhumanM1.gif
+lSLF07#2@16"Copy humanM1.gif315617512#315617512#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif8612037728#438"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/humanM1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/player.png player.png
+s315618407.304458
+e315618407.319428
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/player.png
+xplayer.png
+lSLF07#2@15"Copy player.png315618407#315618407#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/player.png8610525696#437"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/player.png" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CCpResource build/Debug/Avisaria.app/Contents/Resources/room1.gif room1.gif
+s315617512.160794
+e315617512.202126
+r1
+xCpResource
+xbuild/Debug/Avisaria.app/Contents/Resources/room1.gif
+xroom1.gif
+lSLF07#2@14"Copy room1.gif315617512#315617512#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif8611894272#436"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/room1.gif" "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Resources"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/MacOS/Avisaria Client" normal i386
+s315616396.716890
+e315616396.847146
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/MacOS/Avisaria Client
+xnormal
+xi386
+lSLF07#2@136"Link /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/MacOS/Avisaria Client315616396#315616396#0(0"0(0#0#0"8618590976#826"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Avisaria Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -framework QuartzCore -framework Quartz -framework OpenGL -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/MacOS/Avisaria Client"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria" normal i386
+s315618414.619824
+e315618414.716798
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria
+xnormal
+xi386
+lSLF07#2@122"Link /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria315618414#315618414#0(0"0(0#0#0"8603172928#805"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Avisaria.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -framework QuartzCore -framework Quartz -framework OpenGL -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/MacOS/Avisaria"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client" normal i386
+s315614449.342991
+e315614449.487182
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client
+xnormal
+xi386
+lSLF07#2@128"Link /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client315614449#315614449#0(0"0(0#0#0"8631602464#814"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/i386/Move Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -framework QuartzCore -framework Quartz -framework OpenGL -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client" normal x86_64
+s315090995.408056
+e315090995.560031
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client315090995#315090995#0(0"0(0#0#0"8620605600#818"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -framework QuartzCore -framework Quartz -framework OpenGL -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/MacOS/Move Client"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client" normal x86_64
+s313794335.490803
+e313794335.673567
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client
+xnormal
+xx86_64
+lSLF07#2@129"Link /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client313794335#313794335#0(0"0(0#0#0"8629306144#765"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Info.plist" Chat_Client-Info.plist
+s315616389.448130
+e315616389.478670
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist315616389#315616389#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client-Info.plist8610396384#426"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Info.plist" Chat_Client-Info.plist
+s315618407.210566
+e315618407.234198
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist315618407#315618407#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client-Info.plist8600031168#412"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Info.plist" Chat_Client-Info.plist
+s315603885.200278
+e315603885.214728
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist315603885#315603885#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client-Info.plist8613515968#418"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist" Chat_Client-Info.plist
+s313784124.972903
+e313784124.988659
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist313784124#313784124#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client-Info.plist8622982880#421"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314918603.194433
+e314918607.441629
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch314918603#314918607#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch8620712480#1762"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bavknsojrxwktmavmcyjfmwwrlig/Chat_Client_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-bgglducqpshiqcefmxzuchtethbo/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784125.681949
+e313784129.705005
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch313784125#313784129#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch8624617472#1772"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ggvobtnpcuzffchiyfxvshezzayx/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315345905.891556
+e315345912.249323
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ggvobtnpcuzffchiyfxvshezzayx/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch315345905#315345912#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch8663213568#1758"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-ggvobtnpcuzffchiyfxvshezzayx/Chat_Client_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315618407.910835
+e315618412.029985
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch315618407#315618412#0(0"0(0#0#91"/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch8600060832#1746"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/Avisaria-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources/i386" "-I/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-hibvhqrthxkcmvdvhcpqozptjmtf/Chat_Client_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app"
+s315616396.847267
+e315616396.868138
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app
+lSLF07#2@106"Touch /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app315616396#315616396#0(0"0(0#0#0"8615564672#203"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria Client.app"0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app"
+s315618414.716952
+e315618414.721505
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app
+lSLF07#2@99"Touch /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app315618414#315618414#0(0"0(0#0#0"8611701760#196"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Avisaria.app"0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app"
+s315614449.487300
+e315614449.491073
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app
+lSLF07#2@102"Touch /Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app315614449#315614449#0(0"0(0#0#0"8630079008#199"    cd "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Avisaria Client GCD+TCP+UDP/build/Debug/Move Client.app"0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app"
+s313794335.673694
+e313794335.677326
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app
+lSLF07#2@103"Touch /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app313794335#313794335#0(0"0(0#0#0"8626779040#201"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app"0#
+

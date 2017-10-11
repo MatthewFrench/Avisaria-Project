@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	08E80759FEB0FDBE11CA29B8 /* Project object */ = {
+		activeBuildConfigurationName = Default;
+		activeExecutable = 34C4414911E288A500AF55D4 /* ImageApp */;
+		activeTarget = D2170C530640A89100D81B04 /* ImageApp */;
+		codeSenseManager = 34C4416D11E288E600AF55D4 /* Code sense */;
+		executables = (
+			34C4414911E288A500AF55D4 /* ImageApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300058789;
+			PBXWorkspaceStateSaveDate = 300058789;
+		};
+		perUserProjectItems = {
+			34C4416711E288E600AF55D4 /* XCBuildMessageTextBookmark */ = 34C4416711E288E600AF55D4 /* XCBuildMessageTextBookmark */;
+			34C4416811E288E600AF55D4 /* PBXTextBookmark */ = 34C4416811E288E600AF55D4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34C4416C11E288E600AF55D4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	34C4414911E288A500AF55D4 /* ImageApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ImageApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34C4416711E288E600AF55D4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'cmFileBasedProfile' undeclared (first use in this function)";
+		fRef = 635270B6083971010045672E /* Profile.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 340;
+		rType = 1;
+	};
+	34C4416811E288E600AF55D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 635270B6083971010045672E /* Profile.m */;
+		name = "Profile.m: 341";
+		rLen = 0;
+		rLoc = 10529;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 10457;
+	};
+	34C4416C11E288E600AF55D4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34C4416D11E288E600AF55D4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	635270B6083971010045672E /* Profile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 6812}}";
+			sepNavSelRange = "{10529, 0}";
+			sepNavVisRange = "{10362, 292}";
+		};
+	};
+	D2170C530640A89100D81B04 /* ImageApp */ = {
+		activeExec = 0;
+		executables = (
+			34C4414911E288A500AF55D4 /* ImageApp */,
+		);
+	};
+}

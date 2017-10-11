@@ -1,0 +1,524 @@
+TStep8
+v7
+r0
+t300058891.268034
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Info.plist" Info.plist
+cStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_library.tiff" icon_library.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/import_camera.tiff" import_camera.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_roll.tiff" icon_roll.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_camera.tiff" icon_camera.tiff
+cCpResource build/Development/Step8.app/Contents/Resources/myPhoto.icns myPhoto.icns
+cStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib"
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_no_camera.tiff" icon_no_camera.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/file.tiff" file.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/leftArrow.tiff" leftArrow.tiff
+cCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/rightArrow.tiff" rightArrow.tiff
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch.gch Step8_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ICAHandler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ICTakePictureHandler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/FileBrowserView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ImageView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/InfoPlist.strings
+c00000000429693A400000000000000E2
+t1117164452
+s226
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib
+c000000004BA3C02300000000000000AA
+t1269022755
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib
+c000000004BA3C02300000000000000AA
+t1269022755
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.h
+c00000000429693A40000000000000BEF
+t1117164452
+s3055
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m
+c00000000429693A4000000000000329B
+t1117164452
+s12955
+i"ICAHandler.h"
+i"ImageView.h"
+i"FileBrowserView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h
+c00000000429693A40000000000001A81
+t1117164452
+s6785
+i<Carbon/Carbon.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m
+c00000000429693A40000000000008833
+t1117164452
+s34867
+i"ICTakePictureHandler.h"
+i"FileBrowserView.h"
+i"ICAHandler.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h
+c00000000429693A40000000000000CB8
+t1117164452
+s3256
+i<Carbon/Carbon.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m
+c00000000429693A400000000000023FA
+t1117164452
+s9210
+i"ICTakePictureHandler.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.h
+c00000000429693A40000000000000B89
+t1117164452
+s2953
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m
+c00000000429693A4000000000000294A
+t1117164452
+s10570
+i"ImageView.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/Step8_Prefix.pch
+c00000000429693A4000000000000008D
+t1117164452
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Info.plist
+t1278366084
+s776
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/MacOS/Step8
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/PkgInfo
+t1278366084
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1278366084
+s226
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/MainMenu.nib
+t1278366084
+s34327
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/TakePicture.nib
+t1278366084
+s4274
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/file.tiff
+t1278366084
+s78640
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_camera.tiff
+t1278366084
+s1288
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_library.tiff
+t1278366084
+s1010
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_no_camera.tiff
+t1278366084
+s17252
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_roll.tiff
+t1278366084
+s1226
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/import_camera.tiff
+t1278366084
+s25458
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/leftArrow.tiff
+t1278366084
+s16552
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/myPhoto.icns
+t1278366084
+s55827
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/rightArrow.tiff
+t1278366084
+s16548
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/FileBrowserView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ICAHandler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ICTakePictureHandler.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ImageView.o
+t1278366091
+s12024
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/Step8.LinkFileList
+c000000004C325184000000000000030A
+t1278366084
+s778
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/main.o
+t1278366089
+s1848
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/file.tiff
+c00000000429693A40000000000013330
+t1117164452
+s78640
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_camera.tiff
+c00000000429693A40000000000000508
+t1117164452
+s1288
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_library.tiff
+c00000000429693A400000000000003F2
+t1117164452
+s1010
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_no_camera.tiff
+c00000000429693A40000000000004364
+t1117164452
+s17252
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_roll.tiff
+c00000000429693A400000000000004CA
+t1117164452
+s1226
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/import_camera.tiff
+c00000000429693A40000000000006372
+t1117164452
+s25458
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/leftArrow.tiff
+c00000000429693A400000000000040A8
+t1117164452
+s16552
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m
+c00000000429693A40000000000000A91
+t1117164452
+s2705
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/myPhoto.icns
+c00000000429693A4000000000000DA13
+t1117164452
+s55827
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/rightArrow.tiff
+c00000000429693A400000000000040A4
+t1117164452
+s16548
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch.gch
+t1278366089
+s41949008
+
+NInfo.plist
+c00000000429693A40000000000000311
+t1117164452
+s785
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300058883#300058884#0(0"0(0#1#0"8616787168#0"0#
+
+CCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/FileBrowserView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058890.747018
+e300058891.267871
+r0
+xCompileC
+xbuild/Step8.build/Development/Step8.build/Objects-normal/i386/FileBrowserView.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m:51:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h:114: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m: In function '-[FileBrowserView updateFiles]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m:213: warning: 'directoryContentsAtPath:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)
+lSLF07#2@104"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m300058890#300058891#0(674"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m:51:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h:114: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m: In function '-[FileBrowserView updateFiles]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m:213: warning: 'directoryContentsAtPath:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)2(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058891#123#165#2(7@118"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m300058891#18446744073709551615#0#0(6@96"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m138857252#51#0#51#0#0"0(13@155"Expected ')' before 'ICAExtendedRegisterEventNotificationPB' in /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h300058891#18446744073709551615#0#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h138857252#114#0#114#0#0"0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h138857252#114#0#114#0#19"expected * before *0(22@130"'directoryContentsAtPath:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:164)300058891#432#242#0(6@96"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m138857252#213#0#213#0#33"'*' is deprecated (declared at *)0(0#0#96"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m8630933760#1365"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/FileBrowserView.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/FileBrowserView.o"1#
+
+CCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ICAHandler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058889.175057
+e300058890.768205
+r0
+xCompileC
+xbuild/Step8.build/Development/Step8.build/Objects-normal/i386/ICAHandler.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:50:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h:65: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+oIn file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:52:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h:114: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function 'DeviceNotificationCallback':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: 'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: (Each undeclared identifier is reported only once
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: for each function it appears in.)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: expected expression before ')' token
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step2) registerForDeviceNotification]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:327: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:327: error: expected ';' before 'pb'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:329: error: 'pb' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: At top level:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:339: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step2) deviceNotification:]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:341: error: 'kExtendedNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:341: error: 'struct objc_object' has no member named 'extd'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:343: error: 'struct objc_object' has no member named 'eventType'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:345: error: 'kICAEventDeviceRemoved' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:349: error: 'kICAEventDeviceAdded' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step6) createDownloadFolder]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:742: warning: 'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)
+lSLF07#2@99"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m300058889#300058890#0(3574"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:50:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h:65: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:52:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h:114: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function 'DeviceNotificationCallback':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: 'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: (Each undeclared identifier is reported only once/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: for each function it appears in.)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:320: error: expected expression before ')' token/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step2) registerForDeviceNotification]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:327: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:327: error: expected ';' before 'pb'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:329: error: 'pb' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: At top level:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:339: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step2) deviceNotification:]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:341: error: 'kExtendedNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:341: error: 'struct objc_object' has no member named 'extd'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:343: error: 'struct objc_object' has no member named 'eventType'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:345: error: 'kICAEventDeviceRemoved' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:349: error: 'kICAEventDeviceAdded' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m: In function '-[ICAHandler(Step6) createDownloadFolder]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m:742: warning: 'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)15(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058890#118#174#2(7@113"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m300058890#18446744073709551615#0#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#50#0#50#0#0"0(13@165"Expected ')' before 'ICAExtendedRegisterEventNotificationPB' in /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h300058890#18446744073709551615#0#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h138857252#65#0#65#0#0"0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h138857252#65#0#65#0#19"expected * before *0(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058890#410#165#2(7@113"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m300058890#18446744073709551615#0#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#52#0#52#0#0"0(13@155"Expected ')' before 'ICAExtendedRegisterEventNotificationPB' in /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h300058890#18446744073709551615#0#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h138857252#114#0#114#0#0"0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.h138857252#114#0#114#0#19"expected * before *0(4@80"'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)300058890#710#185#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#320#0#320#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before ')' token300058890#1187#141#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#320#0#320#0#19"expected * before *0(4@72"'ICARegisterEventNotificationPB' undeclared (first use in this function)300058890#1487#177#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#327#0#327#0#43"'*' undeclared (first use in this function)0(4@24"Expected ';' before 'pb'300058890#1664#129#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#327#0#327#0#19"expected * before *0(4@44"'pb' undeclared (first use in this function)300058890#1793#149#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#329#0#329#0#43"'*' undeclared (first use in this function)0(23@13"At top level:300058890#1942#107#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#0#0#0#0#0"0(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058890#2049#165#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#339#0#339#0#19"expected * before *0(4@65"'kExtendedNotificationPB' undeclared (first use in this function)300058890#2363#170#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#341#0#341#0#43"'*' undeclared (first use in this function)0(4@47"'struct objc_object' has no member named 'extd'300058890#2533#152#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#341#0#341#0#27"'*' has no member named '*'0(4@52"'struct objc_object' has no member named 'eventType'300058890#2685#157#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#343#0#343#0#27"'*' has no member named '*'0(4@64"'kICAEventDeviceRemoved' undeclared (first use in this function)300058890#2842#169#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#345#0#345#0#43"'*' undeclared (first use in this function)0(4@62"'kICAEventDeviceAdded' undeclared (first use in this function)300058890#3011#167#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#349#0#349#0#43"'*' undeclared (first use in this function)0(22@139"'createDirectoryAtPath:attributes:' is deprecated (declared at /System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:168)300058890#3328#246#0(6@91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m138857252#742#0#742#0#33"'*' is deprecated (declared at *)0(0#0#91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m8602660160#1355"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICAHandler.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ICAHandler.o"1#
+
+CCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ICTakePictureHandler.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058889.389620
+e300058890.745693
+r0
+xCompileC
+xbuild/Step8.build/Development/Step8.build/Objects-normal/i386/ICTakePictureHandler.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:52:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h:65: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function 'TakePictureNotificationCallback':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: 'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: (Each undeclared identifier is reported only once
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: for each function it appears in.)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: expected expression before ')' token
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler showUI:]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:99: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:99: error: expected ';' before 'pb'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:101: error: 'pb' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler closeWindow:]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:137: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:137: error: expected ';' before 'pb'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:139: error: 'pb' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: At top level:
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:150: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler takePictureNotification:]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:152: error: 'kExtendedNotificationPB' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:152: error: 'struct objc_object' has no member named 'extd'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:154: error: 'struct objc_object' has no member named 'eventType'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:156: error: 'kICAEventDeviceRemoved' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:157: error: 'struct objc_object' has no member named 'deviceObject'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:163: error: 'kICAEventObjectAdded' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:164: error: 'struct objc_object' has no member named 'object'
+lSLF07#2@109"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m300058889#300058890#0(4037"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:52:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h:65: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function 'TakePictureNotificationCallback':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: 'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: (Each undeclared identifier is reported only once/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: for each function it appears in.)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:74: error: expected expression before ')' token/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler showUI:]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:99: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:99: error: expected ';' before 'pb'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:101: error: 'pb' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler closeWindow:]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:137: error: 'ICARegisterEventNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:137: error: expected ';' before 'pb'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:139: error: 'pb' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: At top level:/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:150: error: expected ')' before 'ICAExtendedRegisterEventNotificationPB'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m: In function '-[ICTakePictureHandler takePictureNotification:]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:152: error: 'kExtendedNotificationPB' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:152: error: 'struct objc_object' has no member named 'extd'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:154: error: 'struct objc_object' has no member named 'eventType'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:156: error: 'kICAEventDeviceRemoved' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:157: error: 'struct objc_object' has no member named 'deviceObject'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:163: error: 'kICAEventObjectAdded' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m:164: error: 'struct objc_object' has no member named 'object'18(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058890#128#174#2(7@123"In file included from /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m300058890#18446744073709551615#0#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#52#0#52#0#0"0(13@165"Expected ')' before 'ICAExtendedRegisterEventNotificationPB' in /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h300058890#18446744073709551615#0#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h138857252#65#0#65#0#0"0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.h138857252#65#0#65#0#19"expected * before *0(4@80"'ICAExtendedRegisterEventNotificationPB' undeclared (first use in this function)300058890#452#194#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#74#0#74#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before ')' token300058890#956#150#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#74#0#74#0#19"expected * before *0(4@72"'ICARegisterEventNotificationPB' undeclared (first use in this function)300058890#1256#186#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#99#0#99#0#43"'*' undeclared (first use in this function)0(4@24"Expected ';' before 'pb'300058890#1442#138#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#99#0#99#0#19"expected * before *0(4@44"'pb' undeclared (first use in this function)300058890#1580#159#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#101#0#101#0#43"'*' undeclared (first use in this function)0(4@72"'ICARegisterEventNotificationPB' undeclared (first use in this function)300058890#1894#187#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#137#0#137#0#43"'*' undeclared (first use in this function)0(4@24"Expected ';' before 'pb'300058890#2081#139#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#137#0#137#0#19"expected * before *0(4@44"'pb' undeclared (first use in this function)300058890#2220#159#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#139#0#139#0#43"'*' undeclared (first use in this function)0(23@13"At top level:300058890#2379#117#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#0#0#0#0#0"0(4@60"Expected ')' before 'ICAExtendedRegisterEventNotificationPB'300058890#2496#175#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#150#0#150#0#19"expected * before *0(4@65"'kExtendedNotificationPB' undeclared (first use in this function)300058890#2838#180#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#152#0#152#0#43"'*' undeclared (first use in this function)0(4@47"'struct objc_object' has no member named 'extd'300058890#3018#162#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#152#0#152#0#27"'*' has no member named '*'0(4@52"'struct objc_object' has no member named 'eventType'300058890#3180#167#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#154#0#154#0#27"'*' has no member named '*'0(4@64"'kICAEventDeviceRemoved' undeclared (first use in this function)300058890#3347#179#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#156#0#156#0#43"'*' undeclared (first use in this function)0(4@55"'struct objc_object' has no member named 'deviceObject'300058890#3526#170#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#157#0#157#0#27"'*' has no member named '*'0(4@62"'kICAEventObjectAdded' undeclared (first use in this function)300058890#3696#177#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#163#0#163#0#43"'*' undeclared (first use in this function)0(4@49"'struct objc_object' has no member named 'object'300058890#3873#164#0(6@101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m138857252#164#0#164#0#27"'*' has no member named '*'0(0#0#101"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m8618936224#1375"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ICTakePictureHandler.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ICTakePictureHandler.o"1#
+
+CCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/ImageView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058890.769065
+e300058891.074499
+r1
+xCompileC
+xbuild/Step8.build/Development/Step8.build/Objects-normal/i386/ImageView.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m300058890#300058891#0(0"0(0#0#90"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m8622802400#1353"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/ImageView.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/ImageView.o"0#
+
+CCompileC build/Step8.build/Development/Step8.build/Objects-normal/i386/main.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058889.171742
+e300058889.389334
+r1
+xCompileC
+xbuild/Step8.build/Development/Step8.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m300058889#300058889#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m8631121664#1343"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/main.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Objects-normal/i386/main.o"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s300058884.337142
+e300058884.380057
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings300058884#300058884#0(0"0(0#0#110"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/InfoPlist.strings8631533408#454"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/file.tiff" file.tiff
+s300058884.647596
+e300058884.674087
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/file.tiff
+xfile.tiff
+lSLF07#2@14"Copy file.tiff300058884#300058884#0(0"0(0#0#88"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/file.tiff8634892608#325"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff file.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_camera.tiff" icon_camera.tiff
+s300058884.531351
+e300058884.568273
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_camera.tiff
+xicon_camera.tiff
+lSLF07#2@21"Copy icon_camera.tiff300058884#300058884#0(0"0(0#0#95"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_camera.tiff8630167360#332"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icon_camera.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_library.tiff" icon_library.tiff
+s300058884.380198
+e300058884.456380
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_library.tiff
+xicon_library.tiff
+lSLF07#2@22"Copy icon_library.tiff300058884#300058884#0(0"0(0#0#96"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_library.tiff8631242400#333"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icon_library.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_no_camera.tiff" icon_no_camera.tiff
+s300058884.572135
+e300058884.647460
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_no_camera.tiff
+xicon_no_camera.tiff
+lSLF07#2@24"Copy icon_no_camera.tiff300058884#300058884#0(0"0(0#0#98"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_no_camera.tiff8632648448#335"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icon_no_camera.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_roll.tiff" icon_roll.tiff
+s300058884.490900
+e300058884.531214
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/icon_roll.tiff
+xicon_roll.tiff
+lSLF07#2@19"Copy icon_roll.tiff300058884#300058884#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/icon_roll.tiff8630437568#330"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icon_roll.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/import_camera.tiff" import_camera.tiff
+s300058884.457067
+e300058884.490776
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/import_camera.tiff
+ximport_camera.tiff
+lSLF07#2@23"Copy import_camera.tiff300058884#300058884#0(0"0(0#0#97"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/import_camera.tiff8630778944#334"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff import_camera.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/leftArrow.tiff" leftArrow.tiff
+s300058884.674214
+e300058884.701068
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/leftArrow.tiff
+xleftArrow.tiff
+lSLF07#2@19"Copy leftArrow.tiff300058884#300058884#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/leftArrow.tiff8632325184#330"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff leftArrow.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/rightArrow.tiff" rightArrow.tiff
+s300058884.701192
+e300058884.736595
+r1
+xCopyTiffFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/rightArrow.tiff
+xrightArrow.tiff
+lSLF07#2@20"Copy rightArrow.tiff300058884#300058884#0(0"0(0#0#94"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/rightArrow.tiff8631692896#331"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff rightArrow.tiff --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CCpResource build/Development/Step8.app/Contents/Resources/myPhoto.icns myPhoto.icns
+s300058884.553067
+e300058884.568072
+r1
+xCpResource
+xbuild/Development/Step8.app/Contents/Resources/myPhoto.icns
+xmyPhoto.icns
+lSLF07#2@17"Copy myPhoto.icns300058884#300058884#0(0"0(0#0#91"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/myPhoto.icns8629357344#458"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/myPhoto.icns" "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/MacOS/Step8" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Info.plist" Info.plist
+s300058884.312527
+e300058884.327481
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist300058884#300058884#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/Info.plist8631858080#436"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch.gch Step8_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300058884.808048
+e300058889.170490
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch.gch
+xStep8_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Step8_Prefix.pch300058884#300058889#0(0"0(0#0#95"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/Step8_Prefix.pch8635190912#1205"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/Step8.hmap" "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Step8.build/Development/Step8.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/Step8_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Step8_Prefix-aygfsxuonduugzahlaqjuzmwrzvp/Step8_Prefix.pch.gch0#
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib"
+s300058884.327828
+e300058884.552942
+r1
+xStripNIB
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib300058884#300058884#0(0"0(0#0#105"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib8631657440#425"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/usr/bin/ibtool --strip "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/MainMenu.nib"0#
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib"
+s300058884.555055
+e300058884.807750
+r1
+xStripNIB
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib
+lSLF07#2@38"StripNIB English.lproj/TakePicture.nib300058884#300058884#0(0"0(0#0#108"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib8628989920#431"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8"    /Developer/usr/bin/ibtool --strip "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app/Contents/Resources/English.lproj/TakePicture.nib" --output-format human-readable-text "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/English.lproj/TakePicture.nib"0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/MyPhoto/Step8/build/Development/Step8.app"
+r0
+

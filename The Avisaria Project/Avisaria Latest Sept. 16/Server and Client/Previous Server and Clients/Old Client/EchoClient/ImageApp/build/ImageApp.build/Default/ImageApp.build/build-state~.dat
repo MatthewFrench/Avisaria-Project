@@ -1,0 +1,549 @@
+TImageApp
+v7
+r0
+t300058816.012298
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Info.plist" Resources/Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings" Resources/English.lproj/InfoPlist.strings
+cStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib"
+cStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib"
+cCpResource build/Default/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf Resources/English.lproj/Credits.rtf
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageInfoPanel.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDoc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/PrintView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/Profile.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageFilter.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDocController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7E366000000000000000EE
+t1266562656
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c0000000047BAEC060000000000000476
+t1203432454
+s1142
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c0000000047BB1D140000000000000100
+t1203445012
+s256
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE54CE90000000000000124
+t1273318633
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.h
+c000000004798E41800000000000009CE
+t1201202200
+s2510
+i<AppKit/AppKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m
+c000000004798E4180000000000000DBD
+t1201202200
+s3517
+i"ImageApp.h"
+i"ImageDocController.h"
+i"Profile.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.h
+c000000004798E4180000000000000D8A
+t1201202200
+s3466
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i<ApplicationServices/ApplicationServices.h>
+i"Profile.h"
+i"ImageView.h"
+i"ImageFilter.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m
+c000000004798E4180000000000006353
+t1201202200
+s25427
+i"ImageDoc.h"
+i"PrintView.h"
+i"ImageInfoPanel.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.h
+c000000004798E41800000000000009F4
+t1201202200
+s2548
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m
+c000000004798E4180000000000001566
+t1201202200
+s5478
+i"ImageDocController.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.h
+c000000004798E4180000000000000B9F
+t1201202200
+s2975
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+i"Profile.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m
+c000000004798E418000000000000217E
+t1201202200
+s8574
+i"ImageFilter.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.h
+c000000004798E4180000000000000B5E
+t1201202200
+s2910
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m
+c000000004798E41800000000000023AC
+t1201202200
+s9132
+i"ImageInfoPanel.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.h
+c000000004798E4180000000000000A16
+t1201202200
+s2582
+i"ImageDoc.h"
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m
+c000000004798E4180000000000001910
+t1201202200
+s6416
+i"ImageDoc.h"
+i"ImageView.h"
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.h
+c000000004798E4180000000000000A33
+t1201202200
+s2611
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m
+c000000004798E41800000000000011CD
+t1201202200
+s4557
+i"PrintView.h"
+i"ImageDoc.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.h
+c000000004798E4180000000000000DB3
+t1201202200
+s3507
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m
+c000000004798E4180000000000003B1B
+t1201202200
+s15131
+i"Profile.h"
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/Credits.rtf
+c000000004798E418000000000000017A
+t1201202200
+s378
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib
+c000000004BA3C00D00000000000000CC
+t1269022733
+s204
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/InfoPlist.strings
+c000000004798E418000000000000003A
+t1201202200
+s58
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib
+c000000004BA3C00D00000000000000AA
+t1269022733
+s170
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Info.plist
+t1278366007
+s1808
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/MacOS/ImageApp
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/PkgInfo
+t1278366007
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf
+t1278366008
+s378
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/ImageDoc.nib
+t1278366008
+s13995
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1278366008
+s58
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/MainMenu.nib
+t1278366008
+s22594
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageApp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageApp.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageDoc.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageDocController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageFilter.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageInfoPanel.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/PrintView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/Profile.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.LinkFileList
+c000000004C32513700000000000004CC
+t1278366007
+s1228
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.o
+t1278366012
+s22524
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDoc.o
+t1278366013
+s86024
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDocController.o
+t1278366015
+s15896
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageFilter.o
+t1278366016
+s25968
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageInfoPanel.o
+t1278366012
+s42828
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageView.o
+t1278366013
+s33316
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/PrintView.o
+t1278366014
+s24792
+
+N/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/Profile.o
+t2
+s0
+
+NResources/Info.plist
+c000000004798E418000000000000072B
+t1201202200
+s1835
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300058807#300058807#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageApp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageDoc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageDocController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageFilter.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageInfoPanel.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/ImageView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/PrintView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/i386/Profile.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058808.399681
+e300058812.356640
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m: In function '-[ImageApp init]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m:72: warning: class 'ImageApp' does not implement the 'NSApplicationDelegate' protocol
+lSLF07#2@92"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m300058808#300058812#0(289"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m: In function '-[ImageApp init]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m:72: warning: class 'ImageApp' does not implement the 'NSApplicationDelegate' protocol1(22@72"Class 'ImageApp' does not implement the 'NSApplicationDelegate' protocol300058812#118#171#0(6@84"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m222895000#72#0#72#0#45"class '*' does not implement the '*' protocol0(0#0#84"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m8634277472#1285"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageApp.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageApp.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDoc.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058812.356756
+e300058813.876762
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDoc.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m: In function '-[ImageDoc windowControllerDidLoadNib:]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m:428: warning: class 'ImageDoc' does not implement the 'NSWindowDelegate' protocol
+lSLF07#2@92"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m300058812#300058813#0(308"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m: In function '-[ImageDoc windowControllerDidLoadNib:]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m:428: warning: class 'ImageDoc' does not implement the 'NSWindowDelegate' protocol1(22@67"Class 'ImageDoc' does not implement the 'NSWindowDelegate' protocol300058813#141#167#0(6@84"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m222895000#428#0#428#0#45"class '*' does not implement the '*' protocol0(0#0#84"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m8644079616#1285"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDoc.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDoc.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDocController.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058814.905746
+e300058815.932758
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDocController.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m300058814#300058815#0(0"0(0#0#94"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m8633431648#1305"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageDocController.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageDocController.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageFilter.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058814.890665
+e300058816.012180
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageFilter.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m: In function '-[ImageFilter createCGImage]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m:228: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type
+lSLF07#2@95"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m300058814#300058816#0(304"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m: In function '-[ImageFilter createCGImage]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m:228: warning: passing argument 2 of 'CGColorCreate' from incompatible pointer type1(22@68"Passing argument 2 of 'CGColorCreate' from incompatible pointer type300058815#133#171#0(6@87"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m222895000#228#0#228#0#56"passing argument * of '*' from incompatible pointer type0(0#0#87"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m8633838304#1291"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageFilter.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageFilter.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageInfoPanel.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058808.395155
+e300058812.356269
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageInfoPanel.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m300058808#300058812#0(0"0(0#0#90"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m8634892992#1297"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageInfoPanel.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageInfoPanel.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058812.358072
+e300058813.755704
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageView.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m300058812#300058813#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m8631983392#1287"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/ImageView.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/ImageView.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/PrintView.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058813.755846
+e300058814.890506
+r1
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/PrintView.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m300058813#300058814#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m8633515104#1287"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/PrintView.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/PrintView.o"0#
+
+CCompileC build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/Profile.o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300058813.876994
+e300058814.905617
+r0
+xCompileC
+xbuild/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/Profile.o
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m: In function '-[Profile path]':
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: 'cmFileBasedProfile' undeclared (first use in this function)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: (Each undeclared identifier is reported only once
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: for each function it appears in.)
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:345: warning: implicit declaration of function 'FSpMakeFSRef'
+o/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:345: error: 'CMProfLoc' has no member named 'fileLoc'
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m300058813#300058814#0(2547"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m: In function '-[Profile path]':/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: 'cmFileBasedProfile' undeclared (first use in this function)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: (Each undeclared identifier is reported only once/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:341: error: for each function it appears in.)/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:345: warning: implicit declaration of function 'FSpMakeFSRef'/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m:345: error: 'CMProfLoc' has no member named 'fileLoc'{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_163(4@60"'cmFileBasedProfile' undeclared (first use in this function)300058814#116#157#0(6@83"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m222895000#341#0#341#0#43"'*' undeclared (first use in this function)0(22@47"Implicit declaration of function 'FSpMakeFSRef'300058814#549#146#0(6@83"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m222895000#345#0#345#0#36"implicit declaration of function '*'0(4@41"'CMProfLoc' has no member named 'fileLoc'300058814#695#138#0(6@83"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m222895000#345#0#345#0#27"'*' has no member named '*'0(0#0#83"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m8630647424#1283"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/ImageApp.hmap" -Wmost -Wno-four-char-constants -Wno-unknown-pragmas "-F/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/include" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/DerivedSources" -no-cpp-precomp -c "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Profile.m" -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/ImageApp.build/Default/ImageApp.build/Objects-normal/x86_64/Profile.o"1#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings" Resources/English.lproj/InfoPlist.strings
+s300058807.941463
+e300058808.353688
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+xResources/English.lproj/InfoPlist.strings
+lSLF07#2@46"Copy Resources/English.lproj/InfoPlist.strings300058807#300058808#0(0"0(0#0#115"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/InfoPlist.strings8643014528#453"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 Resources/English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Default/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf Resources/English.lproj/Credits.rtf
+s300058808.246156
+e300058808.395007
+r1
+xCpResource
+xbuild/Default/ImageApp.app/Contents/Resources/English.lproj/Credits.rtf
+xResources/English.lproj/Credits.rtf
+lSLF07#2@40"Copy Resources/English.lproj/Credits.rtf300058808#300058808#0(0"0(0#0#109"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/Credits.rtf8629043904#500"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/Credits.rtf" "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/MacOS/ImageApp" normal i386
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/MacOS/ImageApp" normal x86_64
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Info.plist" Resources/Info.plist
+s300058807.935030
+e300058807.941324
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist300058807#300058807#0(0"0(0#0#94"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/Info.plist7801114608141954048#429"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Info.plist"0#
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib"
+s300058808.101600
+e300058808.246033
+r1
+xStripNIB
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib
+lSLF07#2@45"StripNIB Resources/English.lproj/ImageDoc.nib300058808#300058808#0(0"0(0#0#110"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib8632799040#419"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    /Developer/usr/bin/ibtool --strip "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/ImageDoc.nib" --output-format human-readable-text "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/ImageDoc.nib"0#
+
+CStripNIB "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib"
+s300058807.942748
+e300058808.101490
+r1
+xStripNIB
+x/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib
+lSLF07#2@45"StripNIB Resources/English.lproj/MainMenu.nib300058807#300058808#0(0"0(0#0#110"/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib8635408256#419"    cd "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp"    /Developer/usr/bin/ibtool --strip "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/Resources/English.lproj/MainMenu.nib"0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Working Client/EchoClient/ImageApp/build/Default/ImageApp.app"
+r0
+

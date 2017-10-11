@@ -1,0 +1,563 @@
+TCocos2D test
+v7
+r0
+t316988461.172913
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist" Cocos2D_test-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch Cocos2D_test_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004CAA7404000000000001A384
+t1286239236
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAA740500000000000A3C74
+t1286239237
+s670836
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.dylib
+c000000004CAA740A0000000000005D2C
+t1286239242
+s23852
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/../../../cocos2d-iphone/build/Release/libcocos2d.a
+c000000004D349ACE00000000007AB194
+t1295293134
+s8040852
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.h
+c000000004D349B6D000000000000014C
+t1295293293
+s332
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m
+c000000004D349B6D0000000000000186
+t1295293293
+s390
+i"Cocos2D_testAppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch
+c000000004D349B6D000000000000009B
+t1295293293
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/InfoPlist.strings
+c000000004D349B6D000000000000002D
+t1295293293
+s45
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib
+c000000004D349B6D000000000002BBA2
+t1295293293
+s179106
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D test.LinkFileList
+c000000004D34A4A4000000000000011D
+t1295295652
+s285
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o
+t1295295660
+s21256
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o
+t1295295660
+s5016
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist
+t1295295652
+s901
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/PkgInfo
+t1295295652
+s8
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1295295653
+s92
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/MainMenu.nib
+t1295295654
+s34461
+
+N/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m
+c000000004D349B6D0000000000000104
+t1295293293
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch
+t1295295660
+s54306576
+
+NCocos2D_test-Info.plist
+c000000004D349B6D00000000000003EA
+t1295293293
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316988452#316988452#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988460.132533
+e316988460.407494
+r1
+xCompileC
+xbuild/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m316988460#316988460#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m8646370496#1775"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_testAppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D_testAppDelegate.o"0#
+
+CCompileC "build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988460.131066
+e316988460.399745
+r1
+xCompileC
+xbuild/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/matthew/Desktop/Server and Client/Cocos2D test/main.m316988460#316988460#0(0"0(0#0#60"/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m8653483584#1737"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/main.m" -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib"
+s316988452.487178
+e316988454.408104
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib316988452#316988454#0(0"0(0#0#80"/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib8628168224#420"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s316988452.448541
+e316988453.713644
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings316988452#316988453#0(0"0(0#0#85"/Users/matthew/Desktop/Server and Client/Cocos2D test/English.lproj/InfoPlist.strings8628790656#404"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test" normal x86_64
+s316988460.407610
+e316988461.172801
+r0
+xLd
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_gluLookAt", referenced from:
+o      -[CCCamera locate] in libcocos2d.a(CCCamera.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glBindFramebuffer", referenced from:
+o      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)
+o      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)
+o      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)
+o      -[CCGrabber afterRender:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)
+o  "_glPushMatrix", referenced from:
+o      -[CCNode visit] in libcocos2d.a(CCNode.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glOrtho", referenced from:
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glDisableClientState", referenced from:
+o      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glViewport", referenced from:
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glGenTextures", referenced from:
+o      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o  "_glMultMatrixf", referenced from:
+o      -[CCNode transform] in libcocos2d.a(CCNode.o)
+o  "_glCheckFramebufferStatus", referenced from:
+o      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o  "_glGetString", referenced from:
+o      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)
+o  "_glVertexPointer", referenced from:
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glTexParameteri", referenced from:
+o      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)
+o  "_glDrawArrays", referenced from:
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)
+o  "_glDepthFunc", referenced from:
+o      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)
+o  "_glMatrixMode", referenced from:
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glGenFramebuffers", referenced from:
+o      -[CCGrabber init] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o  "_glTranslated", referenced from:
+o      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)
+o      -[CCNode transform] in libcocos2d.a(CCNode.o)
+o      -[CCNode transform] in libcocos2d.a(CCNode.o)
+o  "_glTranslatef", referenced from:
+o      -[CCNode transform] in libcocos2d.a(CCNode.o)
+o  "_glBufferData", referenced from:
+o      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glEnable", referenced from:
+o      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)
+o      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_CGLUnlockContext", referenced from:
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[MacGLView reshape] in libcocos2d.a(MacGLView.o)
+o  "_glEnableClientState", referenced from:
+o      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glColorPointer", referenced from:
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glDisable", referenced from:
+o      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)
+o      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)
+o      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glGetIntegerv", referenced from:
+o      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)
+o      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)
+o      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)
+o      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)
+o      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o  "_glTexCoordPointer", referenced from:
+o      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glDrawElements", referenced from:
+o      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glBufferSubData", referenced from:
+o      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glCompressedTexImage2D", referenced from:
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o  "_glColor4ub", referenced from:
+o      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)
+o      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)
+o      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)
+o  "_glClearDepth", referenced from:
+o      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)
+o  "_gluPerspective", referenced from:
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glDeleteFramebuffers", referenced from:
+o      -[CCGrabber dealloc] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture dealloc] in libcocos2d.a(CCRenderTexture.o)
+o  "_glHint", referenced from:
+o      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)
+o  "_glClearColor", referenced from:
+o      -[CCDirector setGLDefaultValues] in libcocos2d.a(CCDirector.o)
+o      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture restoreGLstate] in libcocos2d.a(CCRenderTexture.o)
+o  "_glClear", referenced from:
+o      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glGenBuffers", referenced from:
+o      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas initWithTexture:capacity:] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glFramebufferTexture2D", referenced from:
+o      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)
+o      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)
+o  "_glGetFloatv", referenced from:
+o      -[CCRenderTexture saveGLstate] in libcocos2d.a(CCRenderTexture.o)
+o  "_glPopMatrix", referenced from:
+o      -[CCNode visit] in libcocos2d.a(CCNode.o)
+o      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)
+o      -[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o  "_glBlendFunc", referenced from:
+o      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)
+o      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)
+o      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)
+o      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)
+o      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)
+o      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)
+o      -[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)
+o  "_glTexImage2D", referenced from:
+o      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o  "_CGLLockContext", referenced from:
+o      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)
+o      -[MacGLView reshape] in libcocos2d.a(MacGLView.o)
+o  "_glLoadIdentity", referenced from:
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)
+o  "_glAlphaFunc", referenced from:
+o      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)
+o  "_glBindTexture", referenced from:
+o      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)
+o      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)
+o      -[CCSprite draw] in libcocos2d.a(CCSprite.o)
+o      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o  "_glGenerateMipmap", referenced from:
+o      -[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)
+o  "_glDeleteBuffers", referenced from:
+o      -[CCParticleSystemQuad dealloc] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas dealloc] in libcocos2d.a(CCTextureAtlas.o)
+o  "_glDeleteTextures", referenced from:
+o      -[CCTexture2D dealloc] in libcocos2d.a(CCTexture2D.o)
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o      -[CCTexturePVR dealloc] in libcocos2d.a(CCTexturePVR.o)
+o  "_glGetError", referenced from:
+o      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)
+o      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)
+o  "_glBindBuffer", referenced from:
+o      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+o      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@115"Link /Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test316988460#316988461#0(21902"Undefined symbols:  "_gluLookAt", referenced from:      -[CCCamera locate] in libcocos2d.a(CCCamera.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glBindFramebuffer", referenced from:      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)      -[CCGrabber afterRender:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)  "_glPushMatrix", referenced from:      -[CCNode visit] in libcocos2d.a(CCNode.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glOrtho", referenced from:      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glDisableClientState", referenced from:      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glViewport", referenced from:      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glGenTextures", referenced from:      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)  "_glMultMatrixf", referenced from:      -[CCNode transform] in libcocos2d.a(CCNode.o)  "_glCheckFramebufferStatus", referenced from:      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)  "_glGetString", referenced from:      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)  "_glVertexPointer", referenced from:      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)  "_glTexParameteri", referenced from:      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)  "_glDrawArrays", referenced from:      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)  "_glDepthFunc", referenced from:      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)  "_glMatrixMode", referenced from:      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glGenFramebuffers", referenced from:      -[CCGrabber init] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)  "_glTranslated", referenced from:      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)      -[CCNode transform] in libcocos2d.a(CCNode.o)      -[CCNode transform] in libcocos2d.a(CCNode.o)  "_glTranslatef", referenced from:      -[CCNode transform] in libcocos2d.a(CCNode.o)  "_glBufferData", referenced from:      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)  "_glEnable", referenced from:      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_CGLUnlockContext", referenced from:      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[MacGLView reshape] in libcocos2d.a(MacGLView.o)  "_glEnableClientState", referenced from:      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glColorPointer", referenced from:      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)  "_glDisable", referenced from:      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)      _ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)      _ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glGetIntegerv", referenced from:      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)  "_glTexCoordPointer", referenced from:      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)  "_glDrawElements", referenced from:      -[CCGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)  "_glBufferSubData", referenced from:      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)  "_glCompressedTexImage2D", referenced from:      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)  "_glColor4ub", referenced from:      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)      -[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)  "_glClearDepth", referenced from:      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)  "_gluPerspective", referenced from:      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glDeleteFramebuffers", referenced from:      -[CCGrabber dealloc] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture dealloc] in libcocos2d.a(CCRenderTexture.o)  "_glHint", referenced from:      -[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)  "_glClearColor", referenced from:      -[CCDirector setGLDefaultValues] in libcocos2d.a(CCDirector.o)      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture restoreGLstate] in libcocos2d.a(CCRenderTexture.o)  "_glClear", referenced from:      -[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glGenBuffers", referenced from:      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas initWithTexture:capacity:] in libcocos2d.a(CCTextureAtlas.o)  "_glFramebufferTexture2D", referenced from:      -[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)      -[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)  "_glGetFloatv", referenced from:      -[CCRenderTexture saveGLstate] in libcocos2d.a(CCRenderTexture.o)  "_glPopMatrix", referenced from:      -[CCNode visit] in libcocos2d.a(CCNode.o)      -[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)      -[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)  "_glBlendFunc", referenced from:      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)      -[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)      -[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)      -[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCLayerColor draw] in libcocos2d.a(CCLayer.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)      -[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)  "_glTexImage2D", referenced from:      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)  "_CGLLockContext", referenced from:      -[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)      -[MacGLView reshape] in libcocos2d.a(MacGLView.o)  "_glLoadIdentity", referenced from:      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)      -[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)  "_glAlphaFunc", referenced from:      -[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)  "_glBindTexture", referenced from:      -[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)      -[CCRibbon draw] in libcocos2d.a(CCRibbon.o)      -[CCSprite draw] in libcocos2d.a(CCSprite.o)      -[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)      -[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)  "_glGenerateMipmap", referenced from:      -[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)  "_glDeleteBuffers", referenced from:      -[CCParticleSystemQuad dealloc] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas dealloc] in libcocos2d.a(CCTextureAtlas.o)  "_glDeleteTextures", referenced from:      -[CCTexture2D dealloc] in libcocos2d.a(CCTexture2D.o)      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)      -[CCTexturePVR dealloc] in libcocos2d.a(CCTexturePVR.o)  "_glGetError", referenced from:      -[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)      -[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)  "_glBindBuffer", referenced from:      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)      -[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)ld: symbol(s) not foundcollect2: ld returned 1 exit status352(4@30""_gluLookAt", referenced from:316988461#19#33#0(6@0"316988461#0#0#0#0#0"0(13@46"-[CCCamera locate] in libcocos2d.a(CCCamera.o)316988461#52#53#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#105#62#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#167#71#0(6@0"316988461#0#0#0#0#0"0(4@38""_glBindFramebuffer", referenced from:316988461#238#41#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)316988461#279#54#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)316988461#333#54#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)316988461#387#62#0(6@0"316988461#0#0#0#0#0"0(13@54"-[CCGrabber afterRender:] in libcocos2d.a(CCGrabber.o)316988461#449#61#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#510#94#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#604#94#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#698#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#764#82#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)316988461#846#64#0(6@0"316988461#0#0#0#0#0"0(4@33""_glPushMatrix", referenced from:316988461#910#36#0(6@0"316988461#0#0#0#0#0"0(13@41"-[CCNode visit] in libcocos2d.a(CCNode.o)316988461#946#48#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#994#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#1060#82#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)316988461#1142#70#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#1212#74#0(6@0"316988461#0#0#0#0#0"0(4@28""_glOrtho", referenced from:316988461#1286#31#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#1317#62#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#1379#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#1445#82#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#1527#71#0(6@0"316988461#0#0#0#0#0"0(4@41""_glDisableClientState", referenced from:316988461#1598#44#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)316988461#1642#57#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#1699#58#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#1757#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#1815#59#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#1874#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#1933#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#1990#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#2047#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#2104#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#2161#59#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#2220#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#2279#63#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#2342#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#2405#64#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#2469#64#0(6@0"316988461#0#0#0#0#0"0(13@42"-[CCGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#2533#49#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#2582#54#0(6@0"316988461#0#0#0#0#0"0(13@52"-[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)316988461#2636#59#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#2695#54#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#2749#66#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#2815#66#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#2881#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#2947#82#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#3029#82#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#3111#82#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCRibbon draw] in libcocos2d.a(CCRibbon.o)316988461#3193#51#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#3244#74#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#3318#74#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#3392#74#0(6@0"316988461#0#0#0#0#0"0(4@31""_glViewport", referenced from:316988461#3466#34#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#3500#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#3562#62#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#3624#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#3690#82#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)316988461#3772#64#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#3836#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#3907#71#0(6@0"316988461#0#0#0#0#0"0(4@34""_glGenTextures", referenced from:316988461#3978#37#0(6@0"316988461#0#0#0#0#0"0(13@105"-[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)316988461#4015#112#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#4127#70#0(6@0"316988461#0#0#0#0#0"0(4@34""_glMultMatrixf", referenced from:316988461#4197#37#0(6@0"316988461#0#0#0#0#0"0(13@45"-[CCNode transform] in libcocos2d.a(CCNode.o)316988461#4234#52#0(6@0"316988461#0#0#0#0#0"0(4@45""_glCheckFramebufferStatus", referenced from:316988461#4286#48#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)316988461#4334#54#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#4388#94#0(6@0"316988461#0#0#0#0#0"0(4@32""_glGetString", referenced from:316988461#4482#35#0(6@0"316988461#0#0#0#0#0"0(13@58"-[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)316988461#4517#65#0(6@0"316988461#0#0#0#0#0"0(4@36""_glVertexPointer", referenced from:316988461#4582#39#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#4621#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#4679#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#4738#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#4795#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#4852#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#4911#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#4974#64#0(6@0"316988461#0#0#0#0#0"0(13@42"-[CCGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#5038#49#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#5087#54#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#5141#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#5195#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#5270#75#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#5345#74#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#5419#51#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)316988461#5470#74#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)316988461#5544#73#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#5617#77#0(6@0"316988461#0#0#0#0#0"0(4@36""_glTexParameteri", referenced from:316988461#5694#39#0(6@0"316988461#0#0#0#0#0"0(13@73"-[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)316988461#5733#80#0(6@0"316988461#0#0#0#0#0"0(13@73"-[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)316988461#5813#80#0(6@0"316988461#0#0#0#0#0"0(13@73"-[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)316988461#5893#80#0(6@0"316988461#0#0#0#0#0"0(13@73"-[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)316988461#5973#80#0(6@0"316988461#0#0#0#0#0"0(4@33""_glDrawArrays", referenced from:316988461#6053#36#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#6089#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#6147#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#6206#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#6263#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#6320#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#6379#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#6442#64#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#6506#54#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#6560#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#6614#75#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#6689#74#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#6763#51#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)316988461#6814#74#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)316988461#6888#73#0(6@0"316988461#0#0#0#0#0"0(4@32""_glDepthFunc", referenced from:316988461#6961#35#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)316988461#6996#64#0(6@0"316988461#0#0#0#0#0"0(4@33""_glMatrixMode", referenced from:316988461#7060#36#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#7096#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#7158#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#7220#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#7282#62#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#7344#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#7415#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#7486#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#7557#71#0(6@0"316988461#0#0#0#0#0"0(4@38""_glGenFramebuffers", referenced from:316988461#7628#41#0(6@0"316988461#0#0#0#0#0"0(13@46"-[CCGrabber init] in libcocos2d.a(CCGrabber.o)316988461#7669#53#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#7722#94#0(6@0"316988461#0#0#0#0#0"0(4@33""_glTranslated", referenced from:316988461#7816#36#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)316988461#7852#57#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)316988461#7909#57#0(6@0"316988461#0#0#0#0#0"0(13@45"-[CCNode transform] in libcocos2d.a(CCNode.o)316988461#7966#52#0(6@0"316988461#0#0#0#0#0"0(13@45"-[CCNode transform] in libcocos2d.a(CCNode.o)316988461#8018#52#0(6@0"316988461#0#0#0#0#0"0(4@33""_glTranslatef", referenced from:316988461#8070#36#0(6@0"316988461#0#0#0#0#0"0(13@45"-[CCNode transform] in libcocos2d.a(CCNode.o)316988461#8106#52#0(6@0"316988461#0#0#0#0#0"0(4@33""_glBufferData", referenced from:316988461#8158#36#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)316988461#8194#94#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#8288#70#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#8358#70#0(6@0"316988461#0#0#0#0#0"0(4@29""_glEnable", referenced from:316988461#8428#32#0(6@0"316988461#0#0#0#0#0"0(13@61"-[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)316988461#8460#68#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)316988461#8528#64#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#8592#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#8650#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#8709#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#8766#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#8823#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#8882#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#8945#64#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#9009#54#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#9063#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#9129#82#0(6@0"316988461#0#0#0#0#0"0(13@48"-[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)316988461#9211#55#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#9266#74#0(6@0"316988461#0#0#0#0#0"0(4@37""_CGLUnlockContext", referenced from:316988461#9340#40#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#9380#74#0(6@0"316988461#0#0#0#0#0"0(13@49"-[MacGLView reshape] in libcocos2d.a(MacGLView.o)316988461#9454#56#0(6@0"316988461#0#0#0#0#0"0(4@40""_glEnableClientState", referenced from:316988461#9510#43#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)316988461#9553#57#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#9610#58#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#9668#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#9726#59#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#9785#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#9844#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#9901#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#9958#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#10015#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#10072#59#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#10131#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#10190#63#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#10253#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#10316#64#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#10380#64#0(6@0"316988461#0#0#0#0#0"0(13@42"-[CCGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#10444#49#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#10493#54#0(6@0"316988461#0#0#0#0#0"0(13@52"-[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)316988461#10547#59#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#10606#54#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#10660#66#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#10726#66#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#10792#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#10858#82#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#10940#82#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#11022#82#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCRibbon draw] in libcocos2d.a(CCRibbon.o)316988461#11104#51#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#11155#74#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#11229#74#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#11303#74#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#11377#74#0(6@0"316988461#0#0#0#0#0"0(4@35""_glColorPointer", referenced from:316988461#11451#38#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#11489#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#11543#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#11618#75#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#11693#74#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#11767#51#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#11818#77#0(6@0"316988461#0#0#0#0#0"0(4@30""_glDisable", referenced from:316988461#11895#33#0(6@0"316988461#0#0#0#0#0"0(13@61"-[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)316988461#11928#68#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)316988461#11996#64#0(6@0"316988461#0#0#0#0#0"0(13@51"_ccDrawPoint in libcocos2d.a(CCDrawingPrimitives.o)316988461#12060#58#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawPoints in libcocos2d.a(CCDrawingPrimitives.o)316988461#12118#59#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawLine in libcocos2d.a(CCDrawingPrimitives.o)316988461#12177#57#0(6@0"316988461#0#0#0#0#0"0(13@50"_ccDrawPoly in libcocos2d.a(CCDrawingPrimitives.o)316988461#12234#57#0(6@0"316988461#0#0#0#0#0"0(13@52"_ccDrawCircle in libcocos2d.a(CCDrawingPrimitives.o)316988461#12291#59#0(6@0"316988461#0#0#0#0#0"0(13@56"_ccDrawQuadBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#12350#63#0(6@0"316988461#0#0#0#0#0"0(13@57"_ccDrawCubicBezier in libcocos2d.a(CCDrawingPrimitives.o)316988461#12413#64#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#12477#54#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#12531#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#12597#82#0(6@0"316988461#0#0#0#0#0"0(13@48"-[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)316988461#12679#55#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#12734#74#0(6@0"316988461#0#0#0#0#0"0(4@34""_glGetIntegerv", referenced from:316988461#12808#37#0(6@0"316988461#0#0#0#0#0"0(13@58"-[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)316988461#12845#65#0(6@0"316988461#0#0#0#0#0"0(13@58"-[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)316988461#12910#65#0(6@0"316988461#0#0#0#0#0"0(13@58"-[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)316988461#12975#65#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)316988461#13040#54#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)316988461#13094#62#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#13156#94#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCRenderTexture begin] in libcocos2d.a(CCRenderTexture.o)316988461#13250#66#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#13316#82#0(6@0"316988461#0#0#0#0#0"0(4@38""_glTexCoordPointer", referenced from:316988461#13398#41#0(6@0"316988461#0#0#0#0#0"0(13@42"-[CCGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#13439#49#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#13488#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#13542#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#13617#75#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#13692#74#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#13766#51#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)316988461#13817#74#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)316988461#13891#73#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#13964#77#0(6@0"316988461#0#0#0#0#0"0(4@35""_glDrawElements", referenced from:316988461#14041#38#0(6@0"316988461#0#0#0#0#0"0(13@42"-[CCGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#14079#49#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCTiledGrid3D blit] in libcocos2d.a(CCGrid.o)316988461#14128#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#14182#75#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#14257#77#0(6@0"316988461#0#0#0#0#0"0(4@36""_glBufferSubData", referenced from:316988461#14334#39#0(6@0"316988461#0#0#0#0#0"0(13@72"-[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)316988461#14373#79#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#14452#77#0(6@0"316988461#0#0#0#0#0"0(4@43""_glCompressedTexImage2D", referenced from:316988461#14529#46#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#14575#70#0(6@0"316988461#0#0#0#0#0"0(4@31""_glColor4ub", referenced from:316988461#14645#34#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)316988461#14679#57#0(6@0"316988461#0#0#0#0#0"0(13@52"-[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)316988461#14736#59#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCRibbonSegment draw:fadeTime:color:] in libcocos2d.a(CCRibbon.o)316988461#14795#74#0(6@0"316988461#0#0#0#0#0"0(4@33""_glClearDepth", referenced from:316988461#14869#36#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)316988461#14905#64#0(6@0"316988461#0#0#0#0#0"0(4@35""_gluPerspective", referenced from:316988461#14969#38#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#15007#62#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#15069#71#0(6@0"316988461#0#0#0#0#0"0(4@41""_glDeleteFramebuffers", referenced from:316988461#15140#44#0(6@0"316988461#0#0#0#0#0"0(13@49"-[CCGrabber dealloc] in libcocos2d.a(CCGrabber.o)316988461#15184#56#0(6@0"316988461#0#0#0#0#0"0(13@61"-[CCRenderTexture dealloc] in libcocos2d.a(CCRenderTexture.o)316988461#15240#68#0(6@0"316988461#0#0#0#0#0"0(4@27""_glHint", referenced from:316988461#15308#30#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCDirector setDepthTest:] in libcocos2d.a(CCDirector.o)316988461#15338#64#0(6@0"316988461#0#0#0#0#0"0(4@33""_glClearColor", referenced from:316988461#15402#36#0(6@0"316988461#0#0#0#0#0"0(13@62"-[CCDirector setGLDefaultValues] in libcocos2d.a(CCDirector.o)316988461#15438#69#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)316988461#15507#62#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#15569#82#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#15651#73#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCRenderTexture restoreGLstate] in libcocos2d.a(CCRenderTexture.o)316988461#15724#75#0(6@0"316988461#0#0#0#0#0"0(4@28""_glClear", referenced from:316988461#15799#31#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGrabber beforeRender:] in libcocos2d.a(CCGrabber.o)316988461#15830#62#0(6@0"316988461#0#0#0#0#0"0(13@75"-[CCRenderTexture beginWithClear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#15892#82#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCRenderTexture clear:g:b:a:] in libcocos2d.a(CCRenderTexture.o)316988461#15974#73#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#16047#74#0(6@0"316988461#0#0#0#0#0"0(4@33""_glGenBuffers", referenced from:316988461#16121#36#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)316988461#16157#94#0(6@0"316988461#0#0#0#0#0"0(13@77"-[CCTextureAtlas initWithTexture:capacity:] in libcocos2d.a(CCTextureAtlas.o)316988461#16251#84#0(6@0"316988461#0#0#0#0#0"0(4@43""_glFramebufferTexture2D", referenced from:316988461#16335#46#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCGrabber grab:] in libcocos2d.a(CCGrabber.o)316988461#16381#54#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCRenderTexture initWithWidth:height:pixelFormat:] in libcocos2d.a(CCRenderTexture.o)316988461#16435#94#0(6@0"316988461#0#0#0#0#0"0(4@32""_glGetFloatv", referenced from:316988461#16529#35#0(6@0"316988461#0#0#0#0#0"0(13@65"-[CCRenderTexture saveGLstate] in libcocos2d.a(CCRenderTexture.o)316988461#16564#72#0(6@0"316988461#0#0#0#0#0"0(4@32""_glPopMatrix", referenced from:316988461#16636#35#0(6@0"316988461#0#0#0#0#0"0(13@41"-[CCNode visit] in libcocos2d.a(CCNode.o)316988461#16671#48#0(6@0"316988461#0#0#0#0#0"0(13@57"-[CCRenderTexture end] in libcocos2d.a(CCRenderTexture.o)316988461#16719#64#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCSpriteBatchNode visit] in libcocos2d.a(CCSpriteBatchNode.o)316988461#16783#70#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#16853#74#0(6@0"316988461#0#0#0#0#0"0(4@32""_glBlendFunc", referenced from:316988461#16927#35#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)316988461#16962#57#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCAtlasNode draw] in libcocos2d.a(CCAtlasNode.o)316988461#17019#57#0(6@0"316988461#0#0#0#0#0"0(13@61"-[CCDirector setAlphaBlending:] in libcocos2d.a(CCDirector.o)316988461#17076#68#0(6@0"316988461#0#0#0#0#0"0(13@52"-[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)316988461#17144#59#0(6@0"316988461#0#0#0#0#0"0(13@52"-[CCLabelAtlas draw] in libcocos2d.a(CCLabelAtlas.o)316988461#17203#59#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#17262#54#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#17316#54#0(6@0"316988461#0#0#0#0#0"0(13@47"-[CCLayerColor draw] in libcocos2d.a(CCLayer.o)316988461#17370#54#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#17424#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#17499#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#17574#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#17649#75#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCRibbon draw] in libcocos2d.a(CCRibbon.o)316988461#17724#51#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCRibbon draw] in libcocos2d.a(CCRibbon.o)316988461#17775#51#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#17826#51#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#17877#51#0(6@0"316988461#0#0#0#0#0"0(13@62"-[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)316988461#17928#69#0(6@0"316988461#0#0#0#0#0"0(13@62"-[CCSpriteBatchNode draw] in libcocos2d.a(CCSpriteBatchNode.o)316988461#17997#69#0(6@0"316988461#0#0#0#0#0"0(4@33""_glTexImage2D", referenced from:316988461#18066#36#0(6@0"316988461#0#0#0#0#0"0(13@105"-[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)316988461#18102#112#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#18214#70#0(6@0"316988461#0#0#0#0#0"0(4@35""_CGLLockContext", referenced from:316988461#18284#38#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCDirectorDisplayLink drawScene] in libcocos2d.a(CCDirectorMac.o)316988461#18322#74#0(6@0"316988461#0#0#0#0#0"0(13@49"-[MacGLView reshape] in libcocos2d.a(MacGLView.o)316988461#18396#56#0(6@0"316988461#0#0#0#0#0"0(4@35""_glLoadIdentity", referenced from:316988461#18452#38#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#18490#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set2DProjection] in libcocos2d.a(CCGrid.o)316988461#18552#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#18614#62#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCGridBase set3DProjection] in libcocos2d.a(CCGrid.o)316988461#18676#62#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#18738#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#18809#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#18880#71#0(6@0"316988461#0#0#0#0#0"0(13@64"-[CCDirectorMac setProjection:] in libcocos2d.a(CCDirectorMac.o)316988461#18951#71#0(6@0"316988461#0#0#0#0#0"0(4@32""_glAlphaFunc", referenced from:316988461#19022#35#0(6@0"316988461#0#0#0#0#0"0(13@48"-[CCTMXLayer draw] in libcocos2d.a(CCTMXLayer.o)316988461#19057#55#0(6@0"316988461#0#0#0#0#0"0(4@34""_glBindTexture", referenced from:316988461#19112#37#0(6@0"316988461#0#0#0#0#0"0(13@50"-[CCGridBase afterDraw:] in libcocos2d.a(CCGrid.o)316988461#19149#57#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#19206#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCProgressTimer(Internal) draw] in libcocos2d.a(CCProgressTimer.o)316988461#19281#75#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCRibbon draw] in libcocos2d.a(CCRibbon.o)316988461#19356#51#0(6@0"316988461#0#0#0#0#0"0(13@44"-[CCSprite draw] in libcocos2d.a(CCSprite.o)316988461#19407#51#0(6@0"316988461#0#0#0#0#0"0(13@105"-[CCTexture2D initWithData:pixelFormat:pixelsWide:pixelsHigh:contentSize:] in libcocos2d.a(CCTexture2D.o)316988461#19458#112#0(6@0"316988461#0#0#0#0#0"0(13@67"-[CCTexture2D(Drawing) drawAtPoint:] in libcocos2d.a(CCTexture2D.o)316988461#19570#74#0(6@0"316988461#0#0#0#0#0"0(13@66"-[CCTexture2D(Drawing) drawInRect:] in libcocos2d.a(CCTexture2D.o)316988461#19644#73#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)316988461#19717#77#0(6@0"316988461#0#0#0#0#0"0(13@73"-[CCTexture2D(GLFilter) setTexParameters:] in libcocos2d.a(CCTexture2D.o)316988461#19794#80#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#19874#77#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#19951#70#0(6@0"316988461#0#0#0#0#0"0(4@37""_glGenerateMipmap", referenced from:316988461#20021#40#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTexture2D(GLFilter) generateMipmap] in libcocos2d.a(CCTexture2D.o)316988461#20061#77#0(6@0"316988461#0#0#0#0#0"0(4@36""_glDeleteBuffers", referenced from:316988461#20138#39#0(6@0"316988461#0#0#0#0#0"0(13@71"-[CCParticleSystemQuad dealloc] in libcocos2d.a(CCParticleSystemQuad.o)316988461#20177#78#0(6@0"316988461#0#0#0#0#0"0(13@59"-[CCTextureAtlas dealloc] in libcocos2d.a(CCTextureAtlas.o)316988461#20255#66#0(6@0"316988461#0#0#0#0#0"0(4@37""_glDeleteTextures", referenced from:316988461#20321#40#0(6@0"316988461#0#0#0#0#0"0(13@53"-[CCTexture2D dealloc] in libcocos2d.a(CCTexture2D.o)316988461#20361#60#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#20421#70#0(6@0"316988461#0#0#0#0#0"0(13@55"-[CCTexturePVR dealloc] in libcocos2d.a(CCTexturePVR.o)316988461#20491#62#0(6@0"316988461#0#0#0#0#0"0(4@31""_glGetError", referenced from:316988461#20553#34#0(6@0"316988461#0#0#0#0#0"0(13@58"-[CCConfiguration init] in libcocos2d.a(CCConfiguration.o)316988461#20587#65#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTexturePVR createGLTexture] in libcocos2d.a(CCTexturePVR.o)316988461#20652#70#0(6@0"316988461#0#0#0#0#0"0(4@33""_glBindBuffer", referenced from:316988461#20722#36#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)316988461#20758#94#0(6@0"316988461#0#0#0#0#0"0(13@87"-[CCParticleSystemQuad initWithTotalParticles:] in libcocos2d.a(CCParticleSystemQuad.o)316988461#20852#94#0(6@0"316988461#0#0#0#0#0"0(13@72"-[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)316988461#20946#79#0(6@0"316988461#0#0#0#0#0"0(13@72"-[CCParticleSystemQuad postStep] in libcocos2d.a(CCParticleSystemQuad.o)316988461#21025#79#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#21104#75#0(6@0"316988461#0#0#0#0#0"0(13@68"-[CCParticleSystemQuad draw] in libcocos2d.a(CCParticleSystemQuad.o)316988461#21179#75#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#21254#70#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#21324#70#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#21394#70#0(6@0"316988461#0#0#0#0#0"0(13@63"-[CCTextureAtlas initIndices] in libcocos2d.a(CCTextureAtlas.o)316988461#21464#70#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#21534#77#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#21611#77#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#21688#77#0(6@0"316988461#0#0#0#0#0"0(13@70"-[CCTextureAtlas drawNumberOfQuads:] in libcocos2d.a(CCTextureAtlas.o)316988461#21765#77#0(6@0"316988461#0#0#0#0#0"0(13@19"Symbol(s) not found316988461#21842#24#0(6@0"316988461#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status316988461#21866#36#0(6@0"316988461#0#0#0#0#0"0(0#0#0"8633836832#825"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-L/Users/matthew/Desktop/Server and Client/Cocos2D test/../../../cocos2d-iphone/build/Release" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Objects-normal/x86_64/Cocos2D test.LinkFileList" -mmacosx-version-min=10.6 -all_load -framework Cocoa -lcocos2d -framework ApplicationServices -framework QuartzCore -lz -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/MacOS/Cocos2D test"1#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist" Cocos2D_test-Info.plist
+s316988452.444516
+e316988452.448411
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist
+xCocos2D_test-Info.plist
+lSLF07#2@31"Process Cocos2D_test-Info.plist316988452#316988452#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test-Info.plist2325038779001434112#376"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    builtin-infoPlistUtility Cocos2D_test-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch Cocos2D_test_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316988454.408447
+e316988460.130840
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch
+xCocos2D_test_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Cocos2D_test_Prefix.pch316988454#316988460#0(0"0(0#0#77"/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch8645326624#1621"    cd "/Users/matthew/Desktop/Server and Client/Cocos2D test"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/Cocos2D test-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Cocos2D test.build/Debug/Cocos2D test.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Cocos2D test/Cocos2D_test_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocos2D_test_Prefix-dtnroquesngpphbscybayugipfjk/Cocos2D_test_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Cocos2D test/build/Debug/Cocos2D test.app"
+r0
+

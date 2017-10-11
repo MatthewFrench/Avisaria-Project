@@ -1,0 +1,519 @@
+TChat Client
+v7
+r0
+t313794369.585779
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist" Chat_Client-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib"
+cCpResource "build/Debug/Move Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+cCpResource "build/Debug/Move Client.app/Contents/Resources/room1.gif" room1.gif
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client" normal x86_64
+cTouch "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE54CE90000000000000124
+t1273318633
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004C5342AD00000000000036E0
+t1280524973
+s14048
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004C4DF89900000000000009CB
+t1280178329
+s2507
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004C5342AD000000000006603C
+t1280524973
+s417852
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004AC598620000000000001533
+t1254463586
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004AC599FE00000000000002C9
+t1254463998
+s713
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004AC59C8100000000000003EA
+t1254464641
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ifaddrs.h
+c000000004AC598710000000000000782
+t1254463601
+s1922
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/net/if.h
+c000000004C4DE4AD00000000000034A5
+t1280173229
+s13477
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netdb.h
+c000000004AC598B10000000000003057
+t1254463665
+s12375
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004C4DE4AE000000000000539D
+t1280173230
+s21405
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C4DE4B2000000000000116C
+t1280173234
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/poll.h
+c000000004C4DE4B3000000000000123C
+t1280173235
+s4668
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004C4DE4B400000000000059BC
+t1280173236
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C4DE4B40000000000002905
+t1280173236
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/uio.h
+c000000004C4DE4B50000000000001126
+t1280173237
+s4390
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.h
+c000000004D03D63300000000000007DE
+t1292097075
+s2014
+i<Cocoa/Cocoa.h>
+i"NetworkingController.h"
+i"Player.h"
+i"WorldView.h"
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m
+c000000004D03E79E00000000000044C9
+t1292101534
+s17609
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.h
+c000000004CF8472B00000000000037E2
+t1291339563
+s14306
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m
+c000000004CF8472B00000000000102C8
+t1291339563
+s66248
+i"AsyncUdpSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<sys/ioctl.h>
+i<net/if.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch
+c000000004CF81F620000000000000099
+t1291329378
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/InfoPlist.strings
+c000000004CF81F62000000000000002D
+t1291329378
+s45
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib
+c000000004D03E6DA0000000000038033
+t1292101338
+s229427
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.h
+c000000004CF8472A0000000000009095
+t1291339562
+s37013
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<dispatch/dispatch.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m
+c000000004CF8472A0000000000023A14
+t1291339562
+s145940
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.h
+c000000004D02CE08000000000000022C
+t1292029448
+s556
+i<Cocoa/Cocoa.h>
+i"GCDAsyncSocket.h"
+i"AsyncUdpSocket.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m
+c000000004D03B92100000000000011B5
+t1292089633
+s4533
+i"NetworkingController.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.h
+c000000004D02CE0800000000000002B9
+t1292029448
+s697
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m
+c000000004D03E5EA000000000000031D
+t1292101098
+s797
+i"Player.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.h
+c000000004CCF31260000000000000136
+t1288646950
+s310
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m
+c000000004D03CB8A0000000000000604
+t1292094346
+s1540
+i"WorldView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app
+t1292101535
+s102
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist
+t1292091324
+s898
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client
+t1292101535
+s326944
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/PkgInfo
+t1292091324
+s8
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292091325
+s92
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292101340
+s42959
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/humanM1.gif
+t1292091325
+s441
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/room1.gif
+t1292091325
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/stickman.png
+t2
+s0
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+t1292101535
+s92988
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+t1292091331
+s138432
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+t1292091331
+s362756
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList
+c000000004D03BFBC0000000000000437
+t1292091324
+s1079
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+t1292097076
+s45444
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+t1292101099
+s26556
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+t1292097076
+s27960
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+t1292091329
+s5056
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/humanM1.gif
+c000000004B16712C00000000000001B9
+t1259761964
+s441
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m
+c000000004CF81F620000000000000103
+t1291329378
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/room1.gif
+c000000004CA3A6B4000000000004F7F1
+t1285793460
+s325617
+
+N/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/stickman.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch
+t1292091329
+s54273808
+
+NChat_Client-Info.plist
+c000000004CF81F6200000000000003EA
+t1291329378
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313794369#313794369#0(0"0(0#1#0"8619857120#0"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313794334.247218
+e313794335.490679
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m313794334#313794335#0(0"0(0#0#83"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m8621846368#1917"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AppDelegate.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AppDelegate.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784130.956362
+e313784131.603944
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m313784130#313784131#0(0"0(0#0#86"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m8624515808#1923"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/AsyncUdpSocket.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/AsyncUdpSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784130.267699
+e313784131.693198
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m313784130#313784131#0(0"0(0#0#86"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m8623339648#1923"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/GCDAsyncSocket.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/GCDAsyncSocket.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313789875.669119
+e313789876.300317
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m313789875#313789876#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m8620523552#1935"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/NetworkingController.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/NetworkingController.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313793898.843742
+e313793899.905134
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m313793898#313793899#0(0"0(0#0#78"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m8631003968#1907"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Player.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Player.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313789876.300733
+e313789876.912947
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m313789876#313789876#0(0"0(0#0#81"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m8629148256#1913"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/WorldView.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/WorldView.o"0#
+
+CCompileC "build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784129.705285
+e313784129.910825
+r1
+xCompileC
+xbuild/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m313784129#313784129#0(0"0(0#0#76"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m8622785184#1903"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/main.m" -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib"
+s313794139.753510
+e313794140.581925
+r1
+xCompileXIB
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313794139#313794140#0(0"0(0#0#96"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib8623003648#467"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s313784124.988809
+e313784125.054072
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313784124#313784125#0(0"0(0#0#101"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/English.lproj/InfoPlist.strings8621729280#435"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/humanM1.gif" humanM1.gif
+s313784125.054252
+e313784125.068693
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/humanM1.gif
+xhumanM1.gif
+lSLF07#2@16"Copy humanM1.gif313784125#313784125#0(0"0(0#0#81"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/humanM1.gif8617360576#430"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/humanM1.gif" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/room1.gif" room1.gif
+s313784125.055429
+e313784125.065175
+r1
+xCpResource
+xbuild/Debug/Move Client.app/Contents/Resources/room1.gif
+xroom1.gif
+lSLF07#2@14"Copy room1.gif313784125#313784125#0(0"0(0#0#79"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/room1.gif8613738304#428"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/room1.gif" "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Move Client.app/Contents/Resources/stickman.png" stickman.png
+r0
+
+CLd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client" normal x86_64
+s313794335.490803
+e313794335.673567
+r1
+xLd
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client
+xnormal
+xx86_64
+lSLF07#2@129"Link /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client313794335#313794335#0(0"0(0#0#0"8629306144#765"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" -filelist "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Objects-normal/x86_64/Move Client.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework Quartz -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/MacOS/Move Client"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist" Chat_Client-Info.plist
+s313784124.972903
+e313784124.988659
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist
+xChat_Client-Info.plist
+lSLF07#2@30"Process Chat_Client-Info.plist313784124#313784124#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client-Info.plist8622982880#421"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    builtin-infoPlistUtility Chat_Client-Info.plist -genpkginfo "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch Chat_Client_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313784125.681949
+e313784129.705005
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch
+xChat_Client_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Chat_Client_Prefix.pch313784125#313784129#0(0"0(0#0#92"/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch8624617472#1772"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-generated-files.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-own-target-headers.hmap" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/Move Client-project-headers.hmap" "-F/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/include" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Move Client.build/Debug/Chat Client.build/DerivedSources" -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/Chat_Client_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_Client_Prefix-gbisttortelnilehekvmoyxuubiq/Chat_Client_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app"
+s313794335.673694
+e313794335.677326
+r1
+xTouch
+x/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app
+lSLF07#2@103"Touch /Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app313794335#313794335#0(0"0(0#0#0"8626779040#201"    cd "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile"    /usr/bin/touch -c "/Users/matthew/Desktop/Server and Client/Move Client GCD+TCP+UDP Tile/build/Debug/Move Client.app"0#
+
